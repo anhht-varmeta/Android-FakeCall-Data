@@ -79,8 +79,8 @@
             "santa_calls"
           ],
           "order": 10,
-          "thumbnail": "prank_call/santa/santa_claus_1.jpeg",
-          "video": "prank_call/santa/santa_claus_1.mp4",
+          "thumbnail": "santa/thumbs/santa_claus_1.jpeg",
+          "video": "santa/videos/santa_claus_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -91,8 +91,8 @@
             "santa_calls"
           ],
           "order": 20,
-          "thumbnail": "prank_call/santa/santa_claus_2.jpeg",
-          "video": "prank_call/santa/santa_claus_2.mp4",
+          "thumbnail": "santa/thumbs/santa_claus_2.jpeg",
+          "video": "santa/videos/santa_claus_2.mp4",
           "voice": null,
           "type": "free"
         },
@@ -103,8 +103,8 @@
             "santa_calls"
           ],
           "order": 30,
-          "thumbnail": "prank_call/santa/santa_claus_3.jpeg",
-          "video": "prank_call/santa/santa_claus_3.mp4",
+          "thumbnail": "santa/thumbs/santa_claus_3.jpeg",
+          "video": "santa/videos/santa_claus_3.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -115,8 +115,8 @@
             "santa_calls"
           ],
           "order": 40,
-          "thumbnail": "prank_call/santa/santa_claus_4.jpeg",
-          "video": "prank_call/santa/santa_claus_4.mp4",
+          "thumbnail": "santa/thumbs/santa_claus_4.jpeg",
+          "video": "santa/videos/santa_claus_4.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -127,8 +127,8 @@
             "santa_calls"
           ],
           "order": 50,
-          "thumbnail": "prank_call/santa/santa_claus_5.jpeg",
-          "video": "prank_call/santa/santa_claus_5.mp4",
+          "thumbnail": "santa/thumbs/santa_claus_5.jpeg",
+          "video": "santa/videos/santa_claus_5.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -139,8 +139,8 @@
             "santa_calls"
           ],
           "order": 60,
-          "thumbnail": "prank_call/santa/santa_claus_6.jpeg",
-          "video": "prank_call/santa/santa_claus_6.mp4",
+          "thumbnail": "santa/thumbs/santa_claus_6.jpeg",
+          "video": "santa/videos/santa_claus_6.mp4",
           "voice": null,
           "type": "free"
         },
@@ -151,8 +151,8 @@
             "santa_calls"
           ],
           "order": 70,
-          "thumbnail": "prank_call/santa/santa_claus_7.jpeg",
-          "video": "prank_call/santa/santa_claus_7.mp4",
+          "thumbnail": "santa/thumbs/santa_claus_7.jpeg",
+          "video": "santa/videos/santa_claus_7.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -163,8 +163,8 @@
             "santa_calls"
           ],
           "order": 80,
-          "thumbnail": "prank_call/santa/santa_claus_8.jpeg",
-          "video": "prank_call/santa/santa_claus_8.mp4",
+          "thumbnail": "santa/thumbs/santa_claus_8.jpeg",
+          "video": "santa/videos/santa_claus_8.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -175,8 +175,8 @@
             "celebrities_calls"
           ],
           "order": 10,
-          "thumbnail": "prank_call/celebrities/boy_friend/boy_friend.jpeg",
-          "video": "prank_call/celebrities/boy_friend/boy_friend_1.mp4",
+          "thumbnail": "celebrities/boy_friend/thumbs/boy_friend.jpeg",
+          "video": "celebrities/boy_friend/videos/boy_friend_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -187,8 +187,8 @@
             "celebrities_calls"
           ],
           "order": 20,
-          "thumbnail": "prank_call/celebrities/camila_cabello/camila_cabello.jpeg",
-          "video": "prank_call/celebrities/camila_cabello/camila_cabello_1.mp4",
+          "thumbnail": "celebrities/camila_cabello/thumbs/camila_cabello.jpeg",
+          "video": "celebrities/camila_cabello/videos/camila_cabello_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -199,8 +199,8 @@
             "celebrities_calls"
           ],
           "order": 30,
-          "thumbnail": "prank_call/celebrities/cardi_b/cardi_b.jpeg",
-          "video": "prank_call/celebrities/cardi_b/cardi_b_1.mp4",
+          "thumbnail": "celebrities/cardi_b/thumbs/cardi_b.jpeg",
+          "video": "celebrities/cardi_b/videos/cardi_b_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -211,8 +211,8 @@
             "celebrities_calls"
           ],
           "order": 40,
-          "thumbnail": "prank_call/celebrities/ed_sheeran/ed_sheeran.jpeg",
-          "video": "prank_call/celebrities/ed_sheeran/ed_sheeran_1.mp4",
+          "thumbnail": "celebrities/ed_sheeran/thumbs/ed_sheeran.jpeg",
+          "video": "celebrities/ed_sheeran/videos/ed_sheeran_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -223,8 +223,8 @@
             "celebrities_calls"
           ],
           "order": 50,
-          "thumbnail": "prank_call/celebrities/iu/iu.jpeg",
-          "video": "prank_call/celebrities/iu/iu_1.mp4",
+          "thumbnail": "celebrities/iu/thumbs/iu.jpeg",
+          "video": "celebrities/iu/videos/iu_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -235,8 +235,8 @@
             "celebrities_calls"
           ],
           "order": 60,
-          "thumbnail": "prank_call/celebrities/j_hope/j_hope.jpeg",
-          "video": "prank_call/celebrities/j_hope/j_hope_1.mp4",
+          "thumbnail": "celebrities/j_hope/thumbs/j_hope.jpeg",
+          "video": "celebrities/j_hope/videos/j_hope_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -247,8 +247,8 @@
             "celebrities_calls"
           ],
           "order": 70,
-          "thumbnail": "prank_call/celebrities/jimin/jimin.jpeg",
-          "video": "prank_call/celebrities/jimin/jimin_1.mp4",
+          "thumbnail": "celebrities/jimin/thumbs/jimin.jpeg",
+          "video": "celebrities/jimin/videos/jimin_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -259,8 +259,8 @@
             "celebrities_calls"
           ],
           "order": 80,
-          "thumbnail": "prank_call/celebrities/jin/jin.jpeg",
-          "video": "prank_call/celebrities/jin/jin_1.mp4",
+          "thumbnail": "celebrities/jin/thumbs/jin.jpeg",
+          "video": "celebrities/jin/videos/jin_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -271,8 +271,8 @@
             "celebrities_calls"
           ],
           "order": 90,
-          "thumbnail": "prank_call/celebrities/jisoo/jisoo.jpeg",
-          "video": "prank_call/celebrities/jisoo/jisoo_1.mp4",
+          "thumbnail": "celebrities/jisoo/thumbs/jisoo.jpeg",
+          "video": "celebrities/jisoo/videos/jisoo_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -283,8 +283,8 @@
             "celebrities_calls"
           ],
           "order": 100,
-          "thumbnail": "prank_call/celebrities/johnwick/johnwick.jpeg",
-          "video": "prank_call/celebrities/johnwick/johnwick_1.mp4",
+          "thumbnail": "celebrities/johnwick/thumbs/johnwick.jpeg",
+          "video": "celebrities/johnwick/videos/johnwick_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -295,8 +295,8 @@
             "celebrities_calls"
           ],
           "order": 110,
-          "thumbnail": "prank_call/celebrities/jungkook/jungkook.jpeg",
-          "video": "prank_call/celebrities/jungkook/jungkook_1.mp4",
+          "thumbnail": "celebrities/jungkook/thumbs/jungkook.jpeg",
+          "video": "celebrities/jungkook/videos/jungkook_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -307,8 +307,8 @@
             "celebrities_calls"
           ],
           "order": 120,
-          "thumbnail": "prank_call/celebrities/lady_gaga/lady_gaga.jpeg",
-          "video": "prank_call/celebrities/lady_gaga/lady_gaga_1.mp4",
+          "thumbnail": "celebrities/lady_gaga/thumbs/lady_gaga.jpeg",
+          "video": "celebrities/lady_gaga/videos/lady_gaga_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -319,8 +319,8 @@
             "celebrities_calls"
           ],
           "order": 130,
-          "thumbnail": "prank_call/celebrities/lee_do_huyn/lee_do_huyn.jpeg",
-          "video": "prank_call/celebrities/lee_do_huyn/lee_do_huyn_1.mp4",
+          "thumbnail": "celebrities/lee_do_huyn/thumbs/lee_do_huyn.jpeg",
+          "video": "celebrities/lee_do_huyn/videos/lee_do_huyn_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -331,8 +331,8 @@
             "celebrities_calls"
           ],
           "order": 140,
-          "thumbnail": "prank_call/celebrities/lisa/lisa.jpeg",
-          "video": "prank_call/celebrities/lisa/lisa_1.mp4",
+          "thumbnail": "celebrities/lisa/thumbs/lisa.jpeg",
+          "video": "celebrities/lisa/videos/lisa_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -343,8 +343,8 @@
             "celebrities_calls"
           ],
           "order": 150,
-          "thumbnail": "prank_call/celebrities/maleficent/maleficent.jpeg",
-          "video": "prank_call/celebrities/maleficent/maleficent_1.mp4",
+          "thumbnail": "celebrities/maleficent/thumbs/maleficent.jpeg",
+          "video": "celebrities/maleficent/videos/maleficent_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -355,8 +355,8 @@
             "celebrities_calls"
           ],
           "order": 160,
-          "thumbnail": "prank_call/celebrities/mark_zuckerberg/mark_zuckerberg.jpeg",
-          "video": "prank_call/celebrities/mark_zuckerberg/mark_zuckerberg_1.mp4",
+          "thumbnail": "celebrities/mark_zuckerberg/thumbs/mark_zuckerberg.jpeg",
+          "video": "celebrities/mark_zuckerberg/videos/mark_zuckerberg_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -367,8 +367,8 @@
             "celebrities_calls"
           ],
           "order": 170,
-          "thumbnail": "prank_call/celebrities/messi/messi.jpeg",
-          "video": "prank_call/celebrities/messi/messi_1.mp4",
+          "thumbnail": "celebrities/messi/thumbs/messi.jpeg",
+          "video": "celebrities/messi/videos/messi_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -379,8 +379,8 @@
             "celebrities_calls"
           ],
           "order": 180,
-          "thumbnail": "prank_call/celebrities/mina/mina.jpeg",
-          "video": "prank_call/celebrities/mina/mina_1.mp4",
+          "thumbnail": "celebrities/mina/thumbs/mina.jpeg",
+          "video": "celebrities/mina/videos/mina_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -391,8 +391,8 @@
             "celebrities_calls"
           ],
           "order": 190,
-          "thumbnail": "prank_call/celebrities/mtp/mtp.jpeg",
-          "video": "prank_call/celebrities/mtp/mtp_1.mp4",
+          "thumbnail": "celebrities/mtp/thumbs/mtp.jpeg",
+          "video": "celebrities/mtp/videos/mtp_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -403,8 +403,8 @@
             "celebrities_calls"
           ],
           "order": 200,
-          "thumbnail": "prank_call/celebrities/neymar/neymar.jpeg",
-          "video": "prank_call/celebrities/neymar/neymar_1.mp4",
+          "thumbnail": "celebrities/neymar/thumbs/neymar.jpeg",
+          "video": "celebrities/neymar/videos/neymar_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -415,8 +415,8 @@
             "celebrities_calls"
           ],
           "order": 210,
-          "thumbnail": "prank_call/celebrities/rm/rm.jpeg",
-          "video": "prank_call/celebrities/rm/rm_1.mp4",
+          "thumbnail": "celebrities/rm/thumbs/rm.jpeg",
+          "video": "celebrities/rm/videos/rm_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -427,8 +427,8 @@
             "celebrities_calls"
           ],
           "order": 220,
-          "thumbnail": "prank_call/celebrities/ronaldo/ronaldo.jpeg",
-          "video": "prank_call/celebrities/ronaldo/ronaldo_1.mp4",
+          "thumbnail": "celebrities/ronaldo/thumbs/ronaldo.jpeg",
+          "video": "celebrities/ronaldo/videos/ronaldo_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -439,8 +439,8 @@
             "celebrities_calls"
           ],
           "order": 230,
-          "thumbnail": "prank_call/celebrities/rose/rose.jpeg",
-          "video": "prank_call/celebrities/rose/rose_1.mp4",
+          "thumbnail": "celebrities/rose/thumbs/rose.jpeg",
+          "video": "celebrities/rose/videos/rose_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -451,8 +451,8 @@
             "celebrities_calls"
           ],
           "order": 240,
-          "thumbnail": "prank_call/celebrities/sana/sana.jpeg",
-          "video": "prank_call/celebrities/sana/sana_1.mp4",
+          "thumbnail": "celebrities/sana/thumbs/sana.jpeg",
+          "video": "celebrities/sana/videos/sana_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -463,8 +463,8 @@
             "celebrities_calls"
           ],
           "order": 250,
-          "thumbnail": "prank_call/celebrities/selena_gomez/selena_gomez.jpeg",
-          "video": "prank_call/celebrities/selena_gomez/selena_gomez_1.mp4",
+          "thumbnail": "celebrities/selena_gomez/thumbs/selena_gomez.jpeg",
+          "video": "celebrities/selena_gomez/videos/selena_gomez_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -475,8 +475,8 @@
             "celebrities_calls"
           ],
           "order": 260,
-          "thumbnail": "prank_call/celebrities/shella_fernanda/shella_fernanda.jpeg",
-          "video": "prank_call/celebrities/shella_fernanda/shella_fernanda_1.mp4",
+          "thumbnail": "celebrities/shella_fernanda/thumbs/shella_fernanda.jpeg",
+          "video": "celebrities/shella_fernanda/videos/shella_fernanda_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -487,8 +487,8 @@
             "celebrities_calls"
           ],
           "order": 270,
-          "thumbnail": "prank_call/celebrities/suga/suga.jpeg",
-          "video": "prank_call/celebrities/suga/suga_1.mp4",
+          "thumbnail": "celebrities/suga/thumbs/suga.jpeg",
+          "video": "celebrities/suga/videos/suga_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -499,8 +499,8 @@
             "celebrities_calls"
           ],
           "order": 280,
-          "thumbnail": "prank_call/celebrities/taylor_swift/taylor_swift.jpeg",
-          "video": "prank_call/celebrities/taylor_swift/taylor_swift_1.mp4",
+          "thumbnail": "celebrities/taylor_swift/thumbs/taylor_swift.jpeg",
+          "video": "celebrities/taylor_swift/videos/taylor_swift_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -511,8 +511,8 @@
             "celebrities_calls"
           ],
           "order": 290,
-          "thumbnail": "prank_call/celebrities/v/v.jpeg",
-          "video": "prank_call/celebrities/v/v_1.mp4",
+          "thumbnail": "celebrities/v/thumbs/v.jpeg",
+          "video": "celebrities/v/videos/v_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -523,8 +523,8 @@
             "celebrities_calls"
           ],
           "order": 300,
-          "thumbnail": "prank_call/celebrities/wednesday/wednesday.jpeg",
-          "video": "prank_call/celebrities/wednesday/wednesday_1.mp4",
+          "thumbnail": "celebrities/wednesday/thumbs/wednesday.jpeg",
+          "video": "celebrities/wednesday/videos/wednesday_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -535,8 +535,8 @@
             "superheros_calls"
           ],
           "order": 10,
-          "thumbnail": "prank_call/superheros/batman/batman_1.jpeg",
-          "video": "prank_call/superheros/batman/batman_1.mp4",
+          "thumbnail": "superheros/batman/thumbs/batman_1.jpeg",
+          "video": "superheros/batman/videos/batman_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -547,8 +547,8 @@
             "superheros_calls"
           ],
           "order": 20,
-          "thumbnail": "prank_call/superheros/batman/batman_2.jpeg",
-          "video": "prank_call/superheros/batman/batman_2.mp4",
+          "thumbnail": "superheros/batman/thumbs/batman_2.jpeg",
+          "video": "superheros/batman/videos/batman_2.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -559,8 +559,8 @@
             "superheros_calls"
           ],
           "order": 30,
-          "thumbnail": "prank_call/superheros/batman/batman_3.jpeg",
-          "video": "prank_call/superheros/batman/batman_3.mp4",
+          "thumbnail": "superheros/batman/thumbs/batman_3.jpeg",
+          "video": "superheros/batman/videos/batman_3.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -571,8 +571,8 @@
             "superheros_calls"
           ],
           "order": 40,
-          "thumbnail": "prank_call/superheros/ironman/ironman_1.jpeg",
-          "video": "prank_call/superheros/ironman/ironman_1.mp4",
+          "thumbnail": "superheros/ironman/thumbs/ironman_1.jpeg",
+          "video": "superheros/ironman/videos/ironman_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -583,8 +583,8 @@
             "superheros_calls"
           ],
           "order": 50,
-          "thumbnail": "prank_call/superheros/ironman/ironman_2.jpeg",
-          "video": "prank_call/superheros/ironman/ironman_2.mp4",
+          "thumbnail": "superheros/ironman/thumbs/ironman_2.jpeg",
+          "video": "superheros/ironman/videos/ironman_2.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -595,8 +595,8 @@
             "superheros_calls"
           ],
           "order": 60,
-          "thumbnail": "prank_call/superheros/ironman/ironman_3.jpeg",
-          "video": "prank_call/superheros/ironman/ironman_3.mp4",
+          "thumbnail": "superheros/ironman/thumbs/ironman_3.jpeg",
+          "video": "superheros/ironman/videos/ironman_3.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -607,8 +607,8 @@
             "superheros_calls"
           ],
           "order": 70,
-          "thumbnail": "prank_call/superheros/spiderman/spiderman_1.jpeg",
-          "video": "prank_call/superheros/spiderman/spiderman_1.mp4",
+          "thumbnail": "superheros/spiderman/thumbs/spiderman_1.jpeg",
+          "video": "superheros/spiderman/videos/spiderman_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -619,8 +619,8 @@
             "superheros_calls"
           ],
           "order": 80,
-          "thumbnail": "prank_call/superheros/spiderman/spiderman_2.jpeg",
-          "video": "prank_call/superheros/spiderman/spiderman_2.mp4",
+          "thumbnail": "superheros/spiderman/thumbs/spiderman_2.jpeg",
+          "video": "superheros/spiderman/videos/spiderman_2.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -631,8 +631,8 @@
             "superheros_calls"
           ],
           "order": 90,
-          "thumbnail": "prank_call/superheros/spiderman/spiderman_3.jpeg",
-          "video": "prank_call/superheros/spiderman/spiderman_3.mp4",
+          "thumbnail": "superheros/spiderman/thumbs/spiderman_3.jpeg",
+          "video": "superheros/spiderman/videos/spiderman_3.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -643,8 +643,8 @@
             "superheros_calls"
           ],
           "order": 100,
-          "thumbnail": "prank_call/superheros/superman/superman_1.jpeg",
-          "video": "prank_call/superheros/superman/superman_1.mp4",
+          "thumbnail": "superheros/superman/thumbs/superman_1.jpeg",
+          "video": "superheros/superman/videos/superman_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -655,8 +655,8 @@
             "superheros_calls"
           ],
           "order": 110,
-          "thumbnail": "prank_call/superheros/superman/superman_2.jpeg",
-          "video": "prank_call/superheros/superman/superman_2.mp4",
+          "thumbnail": "superheros/superman/thumbs/superman_2.jpeg",
+          "video": "superheros/superman/videos/superman_2.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -667,8 +667,8 @@
             "superheros_calls"
           ],
           "order": 120,
-          "thumbnail": "prank_call/superheros/superman/superman_3.jpeg",
-          "video": "prank_call/superheros/superman/superman_3.mp4",
+          "thumbnail": "superheros/superman/thumbs/superman_3.jpeg",
+          "video": "superheros/superman/videos/superman_3.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -679,8 +679,8 @@
             "scarys_calls"
           ],
           "order": 10,
-          "thumbnail": "prank_call/scarys/alien/alien.jpeg",
-          "video": "prank_call/scarys/alien/alien_1.mp4",
+          "thumbnail": "scarys/alien/thumbs/alien.jpeg",
+          "video": "scarys/alien/videos/alien_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -691,8 +691,8 @@
             "scarys_calls"
           ],
           "order": 20,
-          "thumbnail": "prank_call/scarys/annabellle/annabellle.jpeg",
-          "video": "prank_call/scarys/annabellle/annabellle_1.mp4",
+          "thumbnail": "scarys/annabellle/thumbs/annabellle.jpeg",
+          "video": "scarys/annabellle/videos/annabellle_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -703,8 +703,8 @@
             "scarys_calls"
           ],
           "order": 30,
-          "thumbnail": "prank_call/scarys/chucky/chucky.jpeg",
-          "video": "prank_call/scarys/chucky/chucky_1.mp4",
+          "thumbnail": "scarys/chucky/thumbs/chucky.jpeg",
+          "video": "scarys/chucky/videos/chucky_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -715,8 +715,8 @@
             "scarys_calls"
           ],
           "order": 40,
-          "thumbnail": "prank_call/scarys/creepy/creepy.jpeg",
-          "video": "prank_call/scarys/creepy/creepy_1.mp4",
+          "thumbnail": "scarys/creepy/thumbs/creepy.jpeg",
+          "video": "scarys/creepy/videos/creepy_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -727,8 +727,8 @@
             "scarys_calls"
           ],
           "order": 50,
-          "thumbnail": "prank_call/scarys/creepy_clown/creepy_clown.jpeg",
-          "video": "prank_call/scarys/creepy_clown/creepy_clown_1.mp4",
+          "thumbnail": "scarys/creepy_clown/thumbs/creepy_clown.jpeg",
+          "video": "scarys/creepy_clown/videos/creepy_clown_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -739,8 +739,8 @@
             "scarys_calls"
           ],
           "order": 60,
-          "thumbnail": "prank_call/scarys/jack_skellington/jack_skellington.jpeg",
-          "video": "prank_call/scarys/jack_skellington/jack_skellington_1.mp4",
+          "thumbnail": "scarys/jack_skellington/thumbs/jack_skellington.jpeg",
+          "video": "scarys/jack_skellington/videos/jack_skellington_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -751,8 +751,8 @@
             "scarys_calls"
           ],
           "order": 70,
-          "thumbnail": "prank_call/scarys/michael_myers/michael_myers.jpeg",
-          "video": "prank_call/scarys/michael_myers/michael_myers_1.mp4",
+          "thumbnail": "scarys/michael_myers/thumbs/michael_myers.jpeg",
+          "video": "scarys/michael_myers/videos/michael_myers_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -763,8 +763,8 @@
             "scarys_calls"
           ],
           "order": 80,
-          "thumbnail": "prank_call/scarys/oogie_boogie/oogie_boogie.jpeg",
-          "video": "prank_call/scarys/oogie_boogie/oogie_boogie_1.mp4",
+          "thumbnail": "scarys/oogie_boogie/thumbs/oogie_boogie.jpeg",
+          "video": "scarys/oogie_boogie/videos/oogie_boogie_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -775,8 +775,8 @@
             "scarys_calls"
           ],
           "order": 90,
-          "thumbnail": "prank_call/scarys/sally/sally.jpeg",
-          "video": "prank_call/scarys/sally/sally_1.mp4",
+          "thumbnail": "scarys/sally/thumbs/sally.jpeg",
+          "video": "scarys/sally/videos/sally_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -787,8 +787,8 @@
             "scarys_calls"
           ],
           "order": 100,
-          "thumbnail": "prank_call/scarys/skibidi_toilet/skibidi_toilet.jpeg",
-          "video": "prank_call/scarys/skibidi_toilet/skibidi_toilet_1.mp4",
+          "thumbnail": "scarys/skibidi_toilet/thumbs/skibidi_toilet.jpeg",
+          "video": "scarys/skibidi_toilet/videos/skibidi_toilet_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -799,8 +799,8 @@
             "scarys_calls"
           ],
           "order": 110,
-          "thumbnail": "prank_call/scarys/vecna/vecna.jpeg",
-          "video": "prank_call/scarys/vecna/vecna_1.mp4",
+          "thumbnail": "scarys/vecna/thumbs/vecna.jpeg",
+          "video": "scarys/vecna/videos/vecna_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -811,8 +811,8 @@
             "scarys_calls"
           ],
           "order": 120,
-          "thumbnail": "prank_call/scarys/zombie/zombie.jpeg",
-          "video": "prank_call/scarys/zombie/zombie_1.mp4",
+          "thumbnail": "scarys/zombie/thumbs/zombie.jpeg",
+          "video": "scarys/zombie/videos/zombie_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -823,8 +823,8 @@
             "ghosts_calls"
           ],
           "order": 10,
-          "thumbnail": "prank_call/ghost/ghost_1.jpeg",
-          "video": "prank_call/ghost/ghost_1.mp4",
+          "thumbnail": "ghost/thumbs/ghost_1.jpeg",
+          "video": "ghost/videos/ghost_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -835,8 +835,8 @@
             "ghosts_calls"
           ],
           "order": 20,
-          "thumbnail": "prank_call/ghost/ghost_2.jpeg",
-          "video": "prank_call/ghost/ghost_2.mp4",
+          "thumbnail": "ghost/thumbs/ghost_2.jpeg",
+          "video": "ghost/videos/ghost_2.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -847,8 +847,8 @@
             "ghosts_calls"
           ],
           "order": 30,
-          "thumbnail": "prank_call/ghost/ghost_3.jpeg",
-          "video": "prank_call/ghost/ghost_3.mp4",
+          "thumbnail": "ghost/thumbs/ghost_3.jpeg",
+          "video": "ghost/videos/ghost_3.mp4",
           "voice": null,
           "type": "free"
         },
@@ -859,8 +859,8 @@
             "ghosts_calls"
           ],
           "order": 40,
-          "thumbnail": "prank_call/ghost/ghost_4.jpeg",
-          "video": "prank_call/ghost/ghost_4.mp4",
+          "thumbnail": "ghost/thumbs/ghost_4.jpeg",
+          "video": "ghost/videos/ghost_4.mp4",
           "voice": null,
           "type": "free"
         },
@@ -871,8 +871,8 @@
             "ghosts_calls"
           ],
           "order": 50,
-          "thumbnail": "prank_call/ghost/ghost_5.jpeg",
-          "video": "prank_call/ghost/ghost_5.mp4",
+          "thumbnail": "ghost/thumbs/ghost_5.jpeg",
+          "video": "ghost/videos/ghost_5.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -883,8 +883,8 @@
             "elsa_calls"
           ],
           "order": 10,
-          "thumbnail": "prank_call/elsa/elsa/elsa_1.jpeg",
-          "video": "prank_call/elsa/elsa/elsa_1.mp4",
+          "thumbnail": "elsa/elsa/thumbs/elsa_1.jpeg",
+          "video": "elsa/elsa/videos/elsa_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -895,8 +895,8 @@
             "elsa_calls"
           ],
           "order": 20,
-          "thumbnail": "prank_call/elsa/elsa/elsa_2.jpeg",
-          "video": "prank_call/elsa/elsa/elsa_2.mp4",
+          "thumbnail": "elsa/elsa/thumbs/elsa_2.jpeg",
+          "video": "elsa/elsa/videos/elsa_2.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -907,8 +907,8 @@
             "elsa_calls"
           ],
           "order": 30,
-          "thumbnail": "prank_call/elsa/elsa/elsa_3.jpeg",
-          "video": "prank_call/elsa/elsa/elsa_3.mp4",
+          "thumbnail": "elsa/elsa/thumbs/elsa_3.jpeg",
+          "video": "elsa/elsa/videos/elsa_3.mp4",
           "voice": null,
           "type": "free"
         },
@@ -919,8 +919,8 @@
             "elsa_calls"
           ],
           "order": 40,
-          "thumbnail": "prank_call/elsa/jack_frost/jack_frost_1.jpeg",
-          "video": "prank_call/elsa/jack_frost/jack_frost_1.mp4",
+          "thumbnail": "elsa/jack_frost/thumbs/jack_frost_1.jpeg",
+          "video": "elsa/jack_frost/videos/jack_frost_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -931,8 +931,8 @@
             "elsa_calls"
           ],
           "order": 50,
-          "thumbnail": "prank_call/elsa/jack_frost/jack_frost_2.jpeg",
-          "video": "prank_call/elsa/jack_frost/jack_frost_2.mp4",
+          "thumbnail": "elsa/jack_frost/thumbs/jack_frost_2.jpeg",
+          "video": "elsa/jack_frost/videos/jack_frost_2.mp4",
           "voice": null,
           "type": "free"
         },
@@ -943,8 +943,8 @@
             "elsa_calls"
           ],
           "order": 60,
-          "thumbnail": "prank_call/elsa/jack_frost/jack_frost_3.jpeg",
-          "video": "prank_call/elsa/jack_frost/jack_frost_3.mp4",
+          "thumbnail": "elsa/jack_frost/thumbs/jack_frost_3.jpeg",
+          "video": "elsa/jack_frost/videos/jack_frost_3.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -955,8 +955,8 @@
             "funnys_calls"
           ],
           "order": 10,
-          "thumbnail": "prank_call/funny/funny_1.jpeg",
-          "video": "prank_call/funny/funny_1.mp4",
+          "thumbnail": "funny/thumbs/funny_1.jpeg",
+          "video": "funny/videos/funny_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -967,8 +967,8 @@
             "funnys_calls"
           ],
           "order": 20,
-          "thumbnail": "prank_call/funny/boy/boy_1.jpeg",
-          "video": "prank_call/funny/boy/boy_1.mp4",
+          "thumbnail": "funny/boy/thumbs/boy_1.jpeg",
+          "video": "funny/boy/videos/boy_1.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -979,8 +979,8 @@
             "funnys_calls"
           ],
           "order": 30,
-          "thumbnail": "prank_call/funny/boy/boy_2.jpeg",
-          "video": "prank_call/funny/boy/boy_2.mp4",
+          "thumbnail": "funny/boy/thumbs/boy_2.jpeg",
+          "video": "funny/boy/videos/boy_2.mp4",
           "voice": null,
           "type": "free"
         },
@@ -991,8 +991,8 @@
             "funnys_calls"
           ],
           "order": 40,
-          "thumbnail": "prank_call/funny/boy/boy_3.jpeg",
-          "video": "prank_call/funny/boy/boy_3.mp4",
+          "thumbnail": "funny/boy/thumbs/boy_3.jpeg",
+          "video": "funny/boy/videos/boy_3.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -1003,8 +1003,8 @@
             "funnys_calls"
           ],
           "order": 50,
-          "thumbnail": "prank_call/funny/girl/girl_1.jpeg",
-          "video": "prank_call/funny/girl/girl_1.mp4",
+          "thumbnail": "funny/girl/thumbs/girl_1.jpeg",
+          "video": "funny/girl/videos/girl_1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1015,8 +1015,8 @@
             "funnys_calls"
           ],
           "order": 60,
-          "thumbnail": "prank_call/funny/girl/girl_2.jpeg",
-          "video": "prank_call/funny/girl/girl_2.mp4",
+          "thumbnail": "funny/girl/thumbs/girl_2.jpeg",
+          "video": "funny/girl/videos/girl_2.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -1027,8 +1027,8 @@
             "funnys_calls"
           ],
           "order": 70,
-          "thumbnail": "prank_call/funny/girl/girl_3.jpeg",
-          "video": "prank_call/funny/girl/girl_3.mp4",
+          "thumbnail": "funny/girl/thumbs/girl_3.jpeg",
+          "video": "funny/girl/videos/girl_3.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -1039,8 +1039,8 @@
             "funnys_calls"
           ],
           "order": 80,
-          "thumbnail": "prank_call/funny/girl/girl_4.jpeg",
-          "video": "prank_call/funny/girl/girl_4.mp4",
+          "thumbnail": "funny/girl/thumbs/girl_4.jpeg",
+          "video": "funny/girl/videos/girl_4.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -1051,8 +1051,8 @@
             "funnys_calls"
           ],
           "order": 90,
-          "thumbnail": "prank_call/funny/girl/girl_5.jpeg",
-          "video": "prank_call/funny/girl/girl_5.mp4",
+          "thumbnail": "funny/girl/thumbs/girl_5.jpeg",
+          "video": "funny/girl/videos/girl_5.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -1063,8 +1063,8 @@
             "funnys_calls"
           ],
           "order": 100,
-          "thumbnail": "prank_call/funny/girl/girl_6.jpeg",
-          "video": "prank_call/funny/girl/girl_6.mp4",
+          "thumbnail": "funny/girl/thumbs/girl_6.jpeg",
+          "video": "funny/girl/videos/girl_6.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -1075,8 +1075,8 @@
             "funnys_calls"
           ],
           "order": 110,
-          "thumbnail": "prank_call/funny/girl/girl_7.jpeg",
-          "video": "prank_call/funny/girl/girl_7.mp4",
+          "thumbnail": "funny/girl/thumbs/girl_7.jpeg",
+          "video": "funny/girl/videos/girl_7.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1087,8 +1087,8 @@
             "funnys_calls"
           ],
           "order": 120,
-          "thumbnail": "prank_call/funny/girl/girl_8.jpeg",
-          "video": "prank_call/funny/girl/girl_8.mp4",
+          "thumbnail": "funny/girl/thumbs/girl_8.jpeg",
+          "video": "funny/girl/videos/girl_8.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -1099,8 +1099,8 @@
             "funnys_calls"
           ],
           "order": 130,
-          "thumbnail": "prank_call/funny/girl/girl_9.jpeg",
-          "video": "prank_call/funny/girl/girl_9.mp4",
+          "thumbnail": "funny/girl/thumbs/girl_9.jpeg",
+          "video": "funny/girl/videos/girl_9.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1111,8 +1111,8 @@
             "funnys_calls"
           ],
           "order": 140,
-          "thumbnail": "prank_call/funny/girl/girl_10.jpeg",
-          "video": "prank_call/funny/girl/girl_10.mp4",
+          "thumbnail": "funny/girl/thumbs/girl_10.jpeg",
+          "video": "funny/girl/videos/girl_10.mp4",
           "voice": null,
           "type": "reward"
         },
@@ -1123,8 +1123,8 @@
             "kpophunter"
           ],
           "order": 10,
-          "thumbnail": "prank_call/kpophunter/kpophunter1.png",
-          "video": "prank_call/kpophunter/kpophunter1.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter1.png",
+          "video": "kpophunter/videos/kpophunter1.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1135,8 +1135,8 @@
             "kpophunter"
           ],
           "order": 20,
-          "thumbnail": "prank_call/kpophunter/kpophunter10.png",
-          "video": "prank_call/kpophunter/kpophunter10.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter10.png",
+          "video": "kpophunter/videos/kpophunter10.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1147,8 +1147,8 @@
             "kpophunter"
           ],
           "order": 30,
-          "thumbnail": "prank_call/kpophunter/kpophunter11.png",
-          "video": "prank_call/kpophunter/kpophunter11.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter11.png",
+          "video": "kpophunter/videos/kpophunter11.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1159,8 +1159,8 @@
             "kpophunter"
           ],
           "order": 40,
-          "thumbnail": "prank_call/kpophunter/kpophunter12.png",
-          "video": "prank_call/kpophunter/kpophunter12.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter12.png",
+          "video": "kpophunter/videos/kpophunter12.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1171,8 +1171,8 @@
             "kpophunter"
           ],
           "order": 50,
-          "thumbnail": "prank_call/kpophunter/kpophunter13.png",
-          "video": "prank_call/kpophunter/kpophunter13.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter13.png",
+          "video": "kpophunter/videos/kpophunter13.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1183,8 +1183,8 @@
             "kpophunter"
           ],
           "order": 60,
-          "thumbnail": "prank_call/kpophunter/kpophunter14.png",
-          "video": "prank_call/kpophunter/kpophunter14.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter14.png",
+          "video": "kpophunter/videos/kpophunter14.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1195,8 +1195,8 @@
             "kpophunter"
           ],
           "order": 70,
-          "thumbnail": "prank_call/kpophunter/kpophunter15.png",
-          "video": "prank_call/kpophunter/kpophunter15.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter15.png",
+          "video": "kpophunter/videos/kpophunter15.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1207,8 +1207,8 @@
             "kpophunter"
           ],
           "order": 80,
-          "thumbnail": "prank_call/kpophunter/kpophunter16.png",
-          "video": "prank_call/kpophunter/kpophunter16.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter16.png",
+          "video": "kpophunter/videos/kpophunter16.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1219,8 +1219,8 @@
             "kpophunter"
           ],
           "order": 90,
-          "thumbnail": "prank_call/kpophunter/kpophunter17.png",
-          "video": "prank_call/kpophunter/kpophunter17.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter17.png",
+          "video": "kpophunter/videos/kpophunter17.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1231,8 +1231,8 @@
             "kpophunter"
           ],
           "order": 100,
-          "thumbnail": "prank_call/kpophunter/kpophunter18.png",
-          "video": "prank_call/kpophunter/kpophunter18.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter18.png",
+          "video": "kpophunter/videos/kpophunter18.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1243,8 +1243,8 @@
             "kpophunter"
           ],
           "order": 110,
-          "thumbnail": "prank_call/kpophunter/kpophunter19.png",
-          "video": "prank_call/kpophunter/kpophunter19.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter19.png",
+          "video": "kpophunter/videos/kpophunter19.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1255,8 +1255,8 @@
             "kpophunter"
           ],
           "order": 120,
-          "thumbnail": "prank_call/kpophunter/kpophunter2.png",
-          "video": "prank_call/kpophunter/kpophunter2.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter2.png",
+          "video": "kpophunter/videos/kpophunter2.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1267,8 +1267,8 @@
             "kpophunter"
           ],
           "order": 130,
-          "thumbnail": "prank_call/kpophunter/kpophunter20.png",
-          "video": "prank_call/kpophunter/kpophunter20.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter20.png",
+          "video": "kpophunter/videos/kpophunter20.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1279,8 +1279,8 @@
             "kpophunter"
           ],
           "order": 140,
-          "thumbnail": "prank_call/kpophunter/kpophunter3.png",
-          "video": "prank_call/kpophunter/kpophunter3.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter3.png",
+          "video": "kpophunter/videos/kpophunter3.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1291,8 +1291,8 @@
             "kpophunter"
           ],
           "order": 150,
-          "thumbnail": "prank_call/kpophunter/kpophunter4.png",
-          "video": "prank_call/kpophunter/kpophunter4.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter4.png",
+          "video": "kpophunter/videos/kpophunter4.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1303,8 +1303,8 @@
             "kpophunter"
           ],
           "order": 160,
-          "thumbnail": "prank_call/kpophunter/kpophunter5.png",
-          "video": "prank_call/kpophunter/kpophunter5.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter5.png",
+          "video": "kpophunter/videos/kpophunter5.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1315,8 +1315,8 @@
             "kpophunter"
           ],
           "order": 170,
-          "thumbnail": "prank_call/kpophunter/kpophunter6.png",
-          "video": "prank_call/kpophunter/kpophunter6.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter6.png",
+          "video": "kpophunter/videos/kpophunter6.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1327,8 +1327,8 @@
             "kpophunter"
           ],
           "order": 180,
-          "thumbnail": "prank_call/kpophunter/kpophunter7.png",
-          "video": "prank_call/kpophunter/kpophunter7.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter7.png",
+          "video": "kpophunter/videos/kpophunter7.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1339,8 +1339,8 @@
             "kpophunter"
           ],
           "order": 190,
-          "thumbnail": "prank_call/kpophunter/kpophunter8.png",
-          "video": "prank_call/kpophunter/kpophunter8.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter8.png",
+          "video": "kpophunter/videos/kpophunter8.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1351,8 +1351,8 @@
             "kpophunter"
           ],
           "order": 200,
-          "thumbnail": "prank_call/kpophunter/kpophunter9.png",
-          "video": "prank_call/kpophunter/kpophunter9.MP4",
+          "thumbnail": "kpophunter/thumbs/kpophunter9.png",
+          "video": "kpophunter/videos/kpophunter9.MP4",
           "voice": null,
           "type": "free"
         },
@@ -1363,8 +1363,8 @@
             "pedri"
           ],
           "order": 10,
-          "thumbnail": "prank_call/pedri/pedri1.png",
-          "video": "prank_call/pedri/pedri1.mp4",
+          "thumbnail": "pedri/thumbs/pedri1.png",
+          "video": "pedri/videos/pedri1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1375,8 +1375,8 @@
             "pedri"
           ],
           "order": 20,
-          "thumbnail": "prank_call/pedri/pedri2.png",
-          "video": "prank_call/pedri/pedri2.mp4",
+          "thumbnail": "pedri/thumbs/pedri2.png",
+          "video": "pedri/videos/pedri2.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1387,8 +1387,8 @@
             "pedri"
           ],
           "order": 30,
-          "thumbnail": "prank_call/pedri/pedri3.png",
-          "video": "prank_call/pedri/pedri3.mp4",
+          "thumbnail": "pedri/thumbs/pedri3.png",
+          "video": "pedri/videos/pedri3.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1399,8 +1399,8 @@
             "pedri"
           ],
           "order": 40,
-          "thumbnail": "prank_call/pedri/pedri4.png",
-          "video": "prank_call/pedri/pedri4.mp4",
+          "thumbnail": "pedri/thumbs/pedri4.png",
+          "video": "pedri/videos/pedri4.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1411,8 +1411,8 @@
             "pedri"
           ],
           "order": 50,
-          "thumbnail": "prank_call/pedri/pedri5.png",
-          "video": "prank_call/pedri/pedri5.mp4",
+          "thumbnail": "pedri/thumbs/pedri5.png",
+          "video": "pedri/videos/pedri5.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1423,8 +1423,8 @@
             "skibidi"
           ],
           "order": 10,
-          "thumbnail": "prank_call/skibidi/skibidi1.png",
-          "video": "prank_call/skibidi/skibidi1.mp4",
+          "thumbnail": "skibidi/thumbs/skibidi1.png",
+          "video": "skibidi/videos/skibidi1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1435,8 +1435,8 @@
             "skibidi"
           ],
           "order": 20,
-          "thumbnail": "prank_call/skibidi/skibidi2.png",
-          "video": "prank_call/skibidi/skibidi2.mp4",
+          "thumbnail": "skibidi/thumbs/skibidi2.png",
+          "video": "skibidi/videos/skibidi2.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1447,8 +1447,8 @@
             "skibidi"
           ],
           "order": 30,
-          "thumbnail": "prank_call/skibidi/skibidi3.png",
-          "video": "prank_call/skibidi/skibidi3.mp4",
+          "thumbnail": "skibidi/thumbs/skibidi3.png",
+          "video": "skibidi/videos/skibidi3.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1459,8 +1459,8 @@
             "skibidi"
           ],
           "order": 40,
-          "thumbnail": "prank_call/skibidi/skibidi4.png",
-          "video": "prank_call/skibidi/skibidi4.mp4",
+          "thumbnail": "skibidi/thumbs/skibidi4.png",
+          "video": "skibidi/videos/skibidi4.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1471,8 +1471,8 @@
             "skibidi"
           ],
           "order": 50,
-          "thumbnail": "prank_call/skibidi/skibidi5.png",
-          "video": "prank_call/skibidi/skibidi5.mp4",
+          "thumbnail": "skibidi/thumbs/skibidi5.png",
+          "video": "skibidi/videos/skibidi5.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1483,8 +1483,8 @@
             "speed"
           ],
           "order": 10,
-          "thumbnail": "prank_call/speed/speed1.png",
-          "video": "prank_call/speed/speed1.mp4",
+          "thumbnail": "speed/thumbs/speed1.png",
+          "video": "speed/videos/speed1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1495,8 +1495,8 @@
             "speed"
           ],
           "order": 20,
-          "thumbnail": "prank_call/speed/speed2.png",
-          "video": "prank_call/speed/speed2.mp4",
+          "thumbnail": "speed/thumbs/speed2.png",
+          "video": "speed/videos/speed2.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1507,8 +1507,8 @@
             "speed"
           ],
           "order": 30,
-          "thumbnail": "prank_call/speed/speed3.png",
-          "video": "prank_call/speed/speed3.mp4",
+          "thumbnail": "speed/thumbs/speed3.png",
+          "video": "speed/videos/speed3.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1519,8 +1519,8 @@
             "speed"
           ],
           "order": 40,
-          "thumbnail": "prank_call/speed/speed4.png",
-          "video": "prank_call/speed/speed4.mp4",
+          "thumbnail": "speed/thumbs/speed4.png",
+          "video": "speed/videos/speed4.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1531,8 +1531,8 @@
             "speed"
           ],
           "order": 50,
-          "thumbnail": "prank_call/speed/speed5.png",
-          "video": "prank_call/speed/speed5.mp4",
+          "thumbnail": "speed/thumbs/speed5.png",
+          "video": "speed/videos/speed5.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1543,8 +1543,8 @@
             "speed"
           ],
           "order": 60,
-          "thumbnail": "prank_call/speed/speed6.png",
-          "video": "prank_call/speed/speed6.mp4",
+          "thumbnail": "speed/thumbs/speed6.png",
+          "video": "speed/videos/speed6.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1555,8 +1555,8 @@
             "strangerthings"
           ],
           "order": 10,
-          "thumbnail": "prank_call/strangerthings/strange1.png",
-          "video": "prank_call/strangerthings/strange1.mp4",
+          "thumbnail": "strangerthings/thumbs/strange1.png",
+          "video": "strangerthings/videos/strange1.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1567,8 +1567,8 @@
             "strangerthings"
           ],
           "order": 20,
-          "thumbnail": "prank_call/strangerthings/strange2.png",
-          "video": "prank_call/strangerthings/strange2.mp4",
+          "thumbnail": "strangerthings/thumbs/strange2.png",
+          "video": "strangerthings/videos/strange2.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1579,8 +1579,8 @@
             "strangerthings"
           ],
           "order": 30,
-          "thumbnail": "prank_call/strangerthings/strange3.png",
-          "video": "prank_call/strangerthings/strange3.mp4",
+          "thumbnail": "strangerthings/thumbs/strange3.png",
+          "video": "strangerthings/videos/strange3.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1591,8 +1591,8 @@
             "strangerthings"
           ],
           "order": 40,
-          "thumbnail": "prank_call/strangerthings/strange4.png",
-          "video": "prank_call/strangerthings/strange4.mp4",
+          "thumbnail": "strangerthings/thumbs/strange4.png",
+          "video": "strangerthings/videos/strange4.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1603,8 +1603,8 @@
             "strangerthings"
           ],
           "order": 50,
-          "thumbnail": "prank_call/strangerthings/strange5.png",
-          "video": "prank_call/strangerthings/strange5.mp4",
+          "thumbnail": "strangerthings/thumbs/strange5.png",
+          "video": "strangerthings/videos/strange5.mp4",
           "voice": null,
           "type": "free"
         },
@@ -1615,9 +1615,9 @@
             "santa_video_call"
           ],
           "order": 10,
-          "thumbnail": "santa_call/thumbs/thumb_santa_1.webp",
-          "video": "santa_call/videos/17.mp4",
-          "voice": "santa_call/voices/voice_4.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_1.webp",
+          "video": "santa_video_call/videos/17.mp4",
+          "voice": "santa_video_call/voices/voice_4.mp3",
           "type": "free"
         },
         {
@@ -1627,9 +1627,9 @@
             "santa_video_call"
           ],
           "order": 20,
-          "thumbnail": "santa_call/thumbs/thumb_santa_10.webp",
-          "video": "santa_call/videos/18.mp4",
-          "voice": "santa_call/voices/voice_12.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_10.webp",
+          "video": "santa_video_call/videos/18.mp4",
+          "voice": "santa_video_call/voices/voice_12.mp3",
           "type": "reward"
         },
         {
@@ -1639,9 +1639,9 @@
             "santa_video_call"
           ],
           "order": 30,
-          "thumbnail": "santa_call/thumbs/thumb_santa_3.webp",
-          "video": "santa_call/videos/19.mp4",
-          "voice": "santa_call/voices/voice_7.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_3.webp",
+          "video": "santa_video_call/videos/19.mp4",
+          "voice": "santa_video_call/voices/voice_7.mp3",
           "type": "iap"
         },
         {
@@ -1651,9 +1651,9 @@
             "santa_video_call"
           ],
           "order": 40,
-          "thumbnail": "santa_call/thumbs/thumb_santa_4.webp",
-          "video": "santa_call/videos/20.mp4",
-          "voice": "santa_call/voices/voice_1.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_4.webp",
+          "video": "santa_video_call/videos/20.mp4",
+          "voice": "santa_video_call/voices/voice_1.mp3",
           "type": "reward"
         },
         {
@@ -1663,9 +1663,9 @@
             "santa_video_call"
           ],
           "order": 50,
-          "thumbnail": "santa_call/thumbs/thumb_santa_5.webp",
-          "video": "santa_call/videos/21.mp4",
-          "voice": "santa_call/voices/voice_15.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_5.webp",
+          "video": "santa_video_call/videos/21.mp4",
+          "voice": "santa_video_call/voices/voice_15.mp3",
           "type": "reward"
         },
         {
@@ -1675,9 +1675,9 @@
             "santa_video_call"
           ],
           "order": 60,
-          "thumbnail": "santa_call/thumbs/thumb_santa_6.webp",
-          "video": "santa_call/videos/22.mp4",
-          "voice": "santa_call/voices/voice_9.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_6.webp",
+          "video": "santa_video_call/videos/22.mp4",
+          "voice": "santa_video_call/voices/voice_9.mp3",
           "type": "reward"
         },
         {
@@ -1687,9 +1687,9 @@
             "santa_video_call"
           ],
           "order": 70,
-          "thumbnail": "santa_call/thumbs/thumb_santa_7.webp",
-          "video": "santa_call/videos/23.mp4",
-          "voice": "santa_call/voices/voice_6.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_7.webp",
+          "video": "santa_video_call/videos/23.mp4",
+          "voice": "santa_video_call/voices/voice_6.mp3",
           "type": "reward"
         },
         {
@@ -1699,9 +1699,9 @@
             "santa_video_call"
           ],
           "order": 80,
-          "thumbnail": "santa_call/thumbs/thumb_santa_8.webp",
-          "video": "santa_call/videos/24.mp4",
-          "voice": "santa_call/voices/voice_14.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_8.webp",
+          "video": "santa_video_call/videos/24.mp4",
+          "voice": "santa_video_call/voices/voice_14.mp3",
           "type": "reward"
         },
         {
@@ -1711,9 +1711,9 @@
             "santa_video_call"
           ],
           "order": 90,
-          "thumbnail": "santa_call/thumbs/thumb_santa_9.webp",
-          "video": "santa_call/videos/25.mp4",
-          "voice": "santa_call/voices/voice_3.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_9.webp",
+          "video": "santa_video_call/videos/25.mp4",
+          "voice": "santa_video_call/voices/voice_3.mp3",
           "type": "reward"
         },
         {
@@ -1723,9 +1723,9 @@
             "santa_video_call"
           ],
           "order": 100,
-          "thumbnail": "santa_call/thumbs/thumb_santa_2.webp",
-          "video": "santa_call/videos/26.mp4",
-          "voice": "santa_call/voices/voice_11.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_2.webp",
+          "video": "santa_video_call/videos/26.mp4",
+          "voice": "santa_video_call/voices/voice_11.mp3",
           "type": "reward"
         },
         {
@@ -1735,9 +1735,9 @@
             "santa_video_call"
           ],
           "order": 110,
-          "thumbnail": "santa_call/thumbs/thumb_santa_11.webp",
-          "video": "santa_call/videos/27.mp4",
-          "voice": "santa_call/voices/voice_8.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_11.webp",
+          "video": "santa_video_call/videos/27.mp4",
+          "voice": "santa_video_call/voices/voice_8.mp3",
           "type": "reward"
         },
         {
@@ -1747,9 +1747,9 @@
             "santa_video_call"
           ],
           "order": 120,
-          "thumbnail": "santa_call/thumbs/thumb_santa_20.webp",
-          "video": "santa_call/videos/28.mp4",
-          "voice": "santa_call/voices/voice_16.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_20.webp",
+          "video": "santa_video_call/videos/28.mp4",
+          "voice": "santa_video_call/voices/voice_16.mp3",
           "type": "reward"
         },
         {
@@ -1759,9 +1759,9 @@
             "santa_video_call"
           ],
           "order": 130,
-          "thumbnail": "santa_call/thumbs/thumb_santa_21.webp",
-          "video": "santa_call/videos/santa_claus_2.mp4",
-          "voice": "santa_call/voices/voice_1.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_21.webp",
+          "video": "santa_video_call/videos/santa_claus_2.mp4",
+          "voice": "santa_video_call/voices/voice_1.mp3",
           "type": "reward"
         },
         {
@@ -1771,9 +1771,9 @@
             "santa_video_call"
           ],
           "order": 140,
-          "thumbnail": "santa_call/thumbs/thumb_santa_13.webp",
-          "video": "santa_call/videos/29.mp4",
-          "voice": "santa_call/voices/voice_2.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_13.webp",
+          "video": "santa_video_call/videos/29.mp4",
+          "voice": "santa_video_call/voices/voice_2.mp3",
           "type": "reward"
         },
         {
@@ -1783,9 +1783,9 @@
             "santa_video_call"
           ],
           "order": 150,
-          "thumbnail": "santa_call/thumbs/thumb_santa_14.webp",
-          "video": "santa_call/videos/30.mp4",
-          "voice": "santa_call/voices/voice_3.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_14.webp",
+          "video": "santa_video_call/videos/30.mp4",
+          "voice": "santa_video_call/voices/voice_3.mp3",
           "type": "reward"
         },
         {
@@ -1795,9 +1795,9 @@
             "santa_video_call"
           ],
           "order": 160,
-          "thumbnail": "santa_call/thumbs/thumb_santa_19.webp",
-          "video": "santa_call/videos/31.mp4",
-          "voice": "santa_call/voices/voice_4.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_19.webp",
+          "video": "santa_video_call/videos/31.mp4",
+          "voice": "santa_video_call/voices/voice_4.mp3",
           "type": "reward"
         },
         {
@@ -1807,9 +1807,9 @@
             "santa_video_call"
           ],
           "order": 170,
-          "thumbnail": "santa_call/thumbs/thumb_santa_3.webp",
-          "video": "santa_call/videos/32.mp4",
-          "voice": "santa_call/voices/voice_5.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_3.webp",
+          "video": "santa_video_call/videos/32.mp4",
+          "voice": "santa_video_call/voices/voice_5.mp3",
           "type": "reward"
         },
         {
@@ -1819,9 +1819,9 @@
             "santa_video_call"
           ],
           "order": 180,
-          "thumbnail": "santa_call/thumbs/thumb_santa_6.webp",
-          "video": "santa_call/videos/33.mp4",
-          "voice": "santa_call/voices/voice_6.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_6.webp",
+          "video": "santa_video_call/videos/33.mp4",
+          "voice": "santa_video_call/voices/voice_6.mp3",
           "type": "reward"
         },
         {
@@ -1831,9 +1831,9 @@
             "santa_video_call"
           ],
           "order": 190,
-          "thumbnail": "santa_call/thumbs/thumb_santa_9.webp",
-          "video": "santa_call/videos/34.mp4",
-          "voice": "santa_call/voices/voice_7.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_9.webp",
+          "video": "santa_video_call/videos/34.mp4",
+          "voice": "santa_video_call/voices/voice_7.mp3",
           "type": "reward"
         },
         {
@@ -1843,9 +1843,9 @@
             "santa_video_call"
           ],
           "order": 200,
-          "thumbnail": "santa_call/thumbs/thumb_santa_2.webp",
-          "video": "santa_call/videos/36.mp4",
-          "voice": "santa_call/voices/voice_8.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_2.webp",
+          "video": "santa_video_call/videos/36.mp4",
+          "voice": "santa_video_call/voices/voice_8.mp3",
           "type": "reward"
         },
         {
@@ -1855,9 +1855,9 @@
             "santa_video_call"
           ],
           "order": 210,
-          "thumbnail": "santa_call/thumbs/thumb_santa_11.webp",
-          "video": "santa_call/videos/36.mp4",
-          "voice": "santa_call/voices/voice_9.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_11.webp",
+          "video": "santa_video_call/videos/36.mp4",
+          "voice": "santa_video_call/voices/voice_9.mp3",
           "type": "reward"
         },
         {
@@ -1867,9 +1867,9 @@
             "santa_video_call"
           ],
           "order": 220,
-          "thumbnail": "santa_call/thumbs/thumb_santa_13.webp",
-          "video": "santa_call/videos/santa_10.mp4",
-          "voice": "santa_call/voices/voice_10.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_13.webp",
+          "video": "santa_video_call/videos/santa_10.mp4",
+          "voice": "santa_video_call/voices/voice_10.mp3",
           "type": "reward"
         },
         {
@@ -1879,9 +1879,9 @@
             "santa_video_call"
           ],
           "order": 230,
-          "thumbnail": "santa_call/thumbs/thumb_santa_14.webp",
-          "video": "santa_call/videos/santa_11.mp4",
-          "voice": "santa_call/voices/voice_11.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_14.webp",
+          "video": "santa_video_call/videos/santa_11.mp4",
+          "voice": "santa_video_call/voices/voice_11.mp3",
           "type": "reward"
         },
         {
@@ -1891,9 +1891,9 @@
             "santa_video_call"
           ],
           "order": 240,
-          "thumbnail": "santa_call/thumbs/thumb_santa_15.webp",
-          "video": "santa_call/videos/santa_12.mp4",
-          "voice": "santa_call/voices/voice_12.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_15.webp",
+          "video": "santa_video_call/videos/santa_12.mp4",
+          "voice": "santa_video_call/voices/voice_12.mp3",
           "type": "reward"
         },
         {
@@ -1903,9 +1903,9 @@
             "santa_video_call"
           ],
           "order": 250,
-          "thumbnail": "santa_call/thumbs/thumb_santa_16.webp",
-          "video": "santa_call/videos/santa_13.mp4",
-          "voice": "santa_call/voices/voice_13.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_16.webp",
+          "video": "santa_video_call/videos/santa_13.mp4",
+          "voice": "santa_video_call/voices/voice_13.mp3",
           "type": "reward"
         },
         {
@@ -1915,9 +1915,9 @@
             "santa_video_call"
           ],
           "order": 260,
-          "thumbnail": "santa_call/thumbs/thumb_santa_17.webp",
-          "video": "santa_call/videos/santa_14.mp4",
-          "voice": "santa_call/voices/voice_14.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_17.webp",
+          "video": "santa_video_call/videos/santa_14.mp4",
+          "voice": "santa_video_call/voices/voice_14.mp3",
           "type": "reward"
         },
         {
@@ -1927,9 +1927,9 @@
             "santa_video_call"
           ],
           "order": 270,
-          "thumbnail": "santa_call/thumbs/thumb_santa_18.webp",
-          "video": "santa_call/videos/santa_15.mp4",
-          "voice": "santa_call/voices/voice_15.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_18.webp",
+          "video": "santa_video_call/videos/santa_15.mp4",
+          "voice": "santa_video_call/voices/voice_15.mp3",
           "type": "reward"
         },
         {
@@ -1939,9 +1939,9 @@
             "santa_video_call"
           ],
           "order": 280,
-          "thumbnail": "santa_call/thumbs/thumb_santa_19.webp",
-          "video": "santa_call/videos/santa_16.mp4",
-          "voice": "santa_call/voices/voice_16.mp3",
+          "thumbnail": "santa_video_call/thumbs/thumb_santa_19.webp",
+          "video": "santa_video_call/videos/santa_16.mp4",
+          "voice": "santa_video_call/voices/voice_16.mp3",
           "type": "reward"
         }
       ]

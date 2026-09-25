@@ -9,13 +9,44 @@ App đọc URL qua Firebase Remote Config key `cdn_data` (JSON `manifest.json`),
 manifest.json               # catalog: version, schemaVersion, 1 danh sách category + 1 danh sách item chung
 v1/
   fakecall/
-    santa_call/              # media gốc "Santa Call" - video + voice (ringtone) riêng
+    santa_video_call/        # category "santa_video_call" - video call kèm voice (ringtone) riêng
+      thumbs/
       videos/
       voices/
+    santa/                    # category "santa_calls" - item nằm phẳng ngay trong category
       thumbs/
-    prank_call/               # media gốc "Prank Call" - nhiều category (celebrities, superheros, ...)
-      <category>/...
+      videos/
+    celebrities/               # category có sub-folder theo từng nhân vật
+      boy_friend/
+        thumbs/
+        videos/
+      camila_cabello/
+        thumbs/
+        videos/
+      ...
+    superheros/
+      batman/
+        thumbs/
+        videos/
+      ironman/
+        thumbs/
+        videos/
+      ...
+    funny/                     # category vừa có item phẳng (funny_1) vừa có sub-folder (boy/, girl/)
+      thumbs/
+      videos/
+      boy/
+        thumbs/
+        videos/
+      girl/
+        thumbs/
+        videos/
+    ghost/ kpophunter/ pedri/ skibidi/ speed/ strangerthings/ scarys/ elsa/ ...
 ```
+
+Mọi category đều nằm phẳng trực tiếp dưới `v1/fakecall/` (không còn tách riêng theo nguồn crawl `santa_call`/`prank_call`).
+Bên trong mỗi category (hoặc mỗi sub-folder nhân vật, nếu category đó chia nhỏ theo nhân vật), file luôn được
+tách theo loại: `thumbs/`, `videos/`, và `voices/` (chỉ xuất hiện ở nhóm nào thực sự có file voice riêng).
 
 `manifest.json` gộp cả 2 nguồn thành **một** danh sách `assets.fakecall.items`, mỗi item thuộc 1+ category
 trong `assets.fakecall.categories` và có 2 field media tùy chọn:
