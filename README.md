@@ -49,7 +49,12 @@ Bên trong mỗi category (hoặc mỗi sub-folder nhân vật, nếu category �
 tách theo loại: `thumbs/`, `videos/`, và `voices/` (chỉ xuất hiện ở nhóm nào thực sự có file voice riêng).
 
 `manifest.json` gộp cả 2 nguồn thành **một** danh sách `assets.fakecall.items`, mỗi item thuộc 1+ category
-trong `assets.fakecall.categories` và có 2 field media tùy chọn:
+trong `assets.fakecall.categories`. Mỗi category có sẵn field `name` — tên hiển thị thật (không phải key),
+ví dụ `{"id": "superheros_calls", "name": "Super Heroes", "order": 30}`. App hiển thị thẳng field này,
+**không** map qua string resource trong app — nên khi thêm category mới chỉ cần thêm vào đây (id + name +
+order) rồi tăng version, không cần update app.
+
+Mỗi item có 2 field media tùy chọn:
 
 - `video`: có giá trị → app cho phép "video call". `null` → không có video.
 - `voice`: có giá trị → app có thể phát riêng ringtone/voice trước khi vào call. Hiện tại chỉ nhóm

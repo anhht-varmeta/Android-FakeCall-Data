@@ -7,67 +7,67 @@
       "categories": [
         {
           "id": "santa_calls",
-          "nameKey": "prank_category_santa_calls",
+          "name": "Santa Claus",
           "order": 10
         },
         {
           "id": "santa_video_call",
-          "nameKey": "prank_category_santa_video_call",
+          "name": "North Pole",
           "order": 15
         },
         {
           "id": "celebrities_calls",
-          "nameKey": "prank_category_celebrities_calls",
+          "name": "Star Call",
           "order": 20
         },
         {
           "id": "superheros_calls",
-          "nameKey": "prank_category_superheros_calls",
+          "name": "Super Heroes",
           "order": 30
         },
         {
           "id": "scarys_calls",
-          "nameKey": "prank_category_scarys_calls",
+          "name": "Horror Night",
           "order": 40
         },
         {
           "id": "ghosts_calls",
-          "nameKey": "prank_category_ghosts_calls",
+          "name": "Ghost Call",
           "order": 50
         },
         {
           "id": "elsa_calls",
-          "nameKey": "prank_category_elsa_calls",
+          "name": "Snow Queen",
           "order": 60
         },
         {
           "id": "funnys_calls",
-          "nameKey": "prank_category_funnys_calls",
+          "name": "Laugh Attack",
           "order": 70
         },
         {
           "id": "kpophunter",
-          "nameKey": "prank_category_kpophunter",
+          "name": "Demon Hunters",
           "order": 80
         },
         {
           "id": "pedri",
-          "nameKey": "prank_category_pedri",
+          "name": "Football Star",
           "order": 90
         },
         {
           "id": "skibidi",
-          "nameKey": "prank_category_skibidi",
+          "name": "Skibidi Toilet",
           "order": 100
         },
         {
           "id": "speed",
-          "nameKey": "prank_category_speed",
+          "name": "Speed Call",
           "order": 110
         },
         {
           "id": "strangerthings",
-          "nameKey": "prank_category_strangerthings",
+          "name": "Stranger Things",
           "order": 120
         }
       ],
