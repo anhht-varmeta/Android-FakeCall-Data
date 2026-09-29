@@ -63,7 +63,51 @@ Mỗi item có 2 field media tùy chọn:
 Item không có `video` (chỉ có `voice`) thì app chỉ hiện option audio call — hiện tại chưa có item nào thuộc
 dạng này, nhưng schema đã sẵn sàng cho trường hợp đó khi crawl thêm data sau này.
 
-Các mục sau (ví dụ `v1/prankvideo/...`) sẽ được thêm khi có data crawl mới cho tính năng khác.
+## Prank video (`assets.prankvideo`)
+
+```
+v1/prankvideo/
+  christmas/                  # category "christmas"
+    configs/<id>.json         # dữ liệu render: chroma key + track 4 góc khung ảnh theo từng frame
+  halloween/                  # category "halloween"
+    configs/
+```
+
+Repo **chỉ** chứa file render (`configs/`). Video mẫu (có vùng nền xanh) và poster đã host sẵn ở
+`https://fake-call.varmeta.date/themes/<id>.mp4|.jpg`, nên không tải về repo.
+
+Mỗi item trong `assets.prankvideo.items` có `thumbnail`, `video`, `config`. Field đường dẫn nào bắt đầu bằng
+`http://`/`https://` là URL tuyệt đối, app dùng nguyên; còn lại là đường dẫn tương đối theo `basePath` trên jsDelivr.
+Hiện tại `thumbnail`/`video` là URL tuyệt đối, `config` là đường dẫn tương đối.
+File `config` **không** nhúng vào manifest (mỗi file ~5–15KB, cả bộ ~230KB) — app chỉ tải khi user mở video đó.
+
+Cấu trúc `configs/<id>.json`:
+
+- `size`: `[width, height]` pixel của video gốc — hệ toạ độ của `track`.
+- `fps`, `duration` (giây).
+- `slot.aspect`: tỉ lệ rộng/cao của khung ảnh — app crop ảnh user về đúng tỉ lệ này trước khi dán.
+- `chroma`: tham số chroma key kiểu OBS — `key` (RGB 0..1 của màu nền xanh), `similarity`, `smoothness`, `spill`, `edge`.
+- `track`: mỗi phần tử `[t, x1, y1, x2, y2, x3, y3, x4, y4]` — thời điểm `t` (giây) và 4 góc khung ảnh theo thứ tự
+  trên-trái, trên-phải, dưới-phải, dưới-trái. Ngoài khoảng thời gian có trong `track` thì khung ảnh không xuất hiện.
+
+## Letter (`assets.letter`)
+
+```
+v1/letter/
+  walls/sendletter_new_<n>.webp   # ảnh nền lá thư
+```
+
+`assets.letter.categories` giống fakecall (`id`, `name`, `order`). App hiển thị đúng các category có trong manifest, không tự gom thêm category "tất cả".
+
+Mỗi item trong `assets.letter.items`:
+
+- `categoryIds`: các category chứa mẫu này.
+- `wall`: ảnh nền, đường dẫn tương đối theo `basePath`.
+- `type`: `free` / `reward` / `iap`.
+- `signPosition`: `left` / `right` — phía đặt chữ ký.
+- `left`, `right`, `top`: khoảng cách vùng viết chữ tới mép trái/phải/trên, tính theo lá thư có chiều rộng tham chiếu **343** —
+  khi render trên ảnh thật thì nhân với `chiều rộng ảnh / 343`.
+- `order`: thứ tự hiển thị (giữ đúng thứ tự file nguồn, không theo số trong id).
 
 ## Versioning
 

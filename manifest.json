@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.1",
+  "version": "v1.1.0",
   "schemaVersion": 2,
   "assets": {
     "fakecall": {
@@ -1943,6 +1943,588 @@
           "video": "santa_video_call/videos/santa_16.mp4",
           "voice": "santa_video_call/voices/voice_16.mp3",
           "type": "reward"
+        }
+      ]
+    },
+    "prankvideo": {
+      "basePath": "v1/prankvideo",
+      "categories": [
+        {
+          "id": "christmas",
+          "name": "Christmas",
+          "order": 10
+        },
+        {
+          "id": "halloween",
+          "name": "Halloween",
+          "order": 20
+        }
+      ],
+      "items": [
+        {
+          "id": "christmas-letter",
+          "name": "Christmas Letter",
+          "categoryIds": [
+            "christmas"
+          ],
+          "order": 10,
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas-letter.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas-letter.mp4",
+          "config": "christmas/configs/christmas-letter.json",
+          "type": "free"
+        },
+        {
+          "id": "christmas-ornament-reveal",
+          "name": "Christmas Ornament",
+          "categoryIds": [
+            "christmas"
+          ],
+          "order": 20,
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas-ornament-reveal.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas-ornament-reveal.mp4",
+          "config": "christmas/configs/christmas-ornament-reveal.json",
+          "type": "free"
+        },
+        {
+          "id": "fireplace-portrait",
+          "name": "Fireplace Portrait",
+          "categoryIds": [
+            "christmas"
+          ],
+          "order": 30,
+          "thumbnail": "https://fake-call.varmeta.date/themes/fireplace-portrait.jpg",
+          "video": "https://fake-call.varmeta.date/themes/fireplace-portrait.mp4",
+          "config": "christmas/configs/fireplace-portrait.json",
+          "type": "free"
+        },
+        {
+          "id": "reindeer-mission-v3",
+          "name": "Reindeer Mission",
+          "categoryIds": [
+            "christmas"
+          ],
+          "order": 40,
+          "thumbnail": "https://fake-call.varmeta.date/themes/reindeer-mission-v3.jpg",
+          "video": "https://fake-call.varmeta.date/themes/reindeer-mission-v3.mp4",
+          "config": "christmas/configs/reindeer-mission-v3.json",
+          "type": "free"
+        },
+        {
+          "id": "santa-elf-delivery",
+          "name": "Elf's Special Delivery",
+          "categoryIds": [
+            "christmas"
+          ],
+          "order": 50,
+          "thumbnail": "https://fake-call.varmeta.date/themes/santa-elf-delivery.jpg",
+          "video": "https://fake-call.varmeta.date/themes/santa-elf-delivery.mp4",
+          "config": "christmas/configs/santa-elf-delivery.json",
+          "type": "free"
+        },
+        {
+          "id": "santa-gift",
+          "name": "Santa's Special Gift",
+          "categoryIds": [
+            "christmas"
+          ],
+          "order": 60,
+          "thumbnail": "https://fake-call.varmeta.date/themes/santa-gift.jpg",
+          "video": "https://fake-call.varmeta.date/themes/santa-gift.mp4",
+          "config": "christmas/configs/santa-gift.json",
+          "type": "free"
+        },
+        {
+          "id": "santa-magic-snow-globe-v2",
+          "name": "Santa and the Magic Snow Globe",
+          "categoryIds": [
+            "christmas"
+          ],
+          "order": 70,
+          "thumbnail": "https://fake-call.varmeta.date/themes/santa-magic-snow-globe-v2.jpg",
+          "video": "https://fake-call.varmeta.date/themes/santa-magic-snow-globe-v2.mp4",
+          "config": "christmas/configs/santa-magic-snow-globe-v2.json",
+          "type": "free"
+        },
+        {
+          "id": "santa-nicelist-reveal-v4",
+          "name": "Santa Opens the Nice List",
+          "categoryIds": [
+            "christmas"
+          ],
+          "order": 80,
+          "thumbnail": "https://fake-call.varmeta.date/themes/santa-nicelist-reveal-v4.jpg",
+          "video": "https://fake-call.varmeta.date/themes/santa-nicelist-reveal-v4.mp4",
+          "config": "christmas/configs/santa-nicelist-reveal-v4.json",
+          "type": "free"
+        },
+        {
+          "id": "santa-selfie",
+          "name": "Santa Selfie",
+          "categoryIds": [
+            "christmas"
+          ],
+          "order": 90,
+          "thumbnail": "https://fake-call.varmeta.date/themes/santa-selfie.jpg",
+          "video": "https://fake-call.varmeta.date/themes/santa-selfie.mp4",
+          "config": "christmas/configs/santa-selfie.json",
+          "type": "free"
+        },
+        {
+          "id": "santa-wave-en-nb",
+          "name": "Santa Says Hi",
+          "categoryIds": [
+            "christmas"
+          ],
+          "order": 100,
+          "thumbnail": "https://fake-call.varmeta.date/themes/santa-wave-en-nb.jpg",
+          "video": "https://fake-call.varmeta.date/themes/santa-wave-en-nb.mp4",
+          "config": "christmas/configs/santa-wave-en-nb.json",
+          "type": "free"
+        },
+        {
+          "id": "santa-workshop",
+          "name": "Santa Workshop",
+          "categoryIds": [
+            "christmas"
+          ],
+          "order": 110,
+          "thumbnail": "https://fake-call.varmeta.date/themes/santa-workshop.jpg",
+          "video": "https://fake-call.varmeta.date/themes/santa-workshop.mp4",
+          "config": "christmas/configs/santa-workshop.json",
+          "type": "free"
+        },
+        {
+          "id": "ghost-photo",
+          "name": "Ghost's Polaroid",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 10,
+          "thumbnail": "https://fake-call.varmeta.date/themes/ghost-photo.jpg",
+          "video": "https://fake-call.varmeta.date/themes/ghost-photo.mp4",
+          "config": "halloween/configs/ghost-photo.json",
+          "type": "free"
+        },
+        {
+          "id": "haunted-mirror",
+          "name": "Haunted Mirror",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 20,
+          "thumbnail": "https://fake-call.varmeta.date/themes/haunted-mirror.jpg",
+          "video": "https://fake-call.varmeta.date/themes/haunted-mirror.mp4",
+          "config": "halloween/configs/haunted-mirror.json",
+          "type": "free"
+        },
+        {
+          "id": "monster-wanted",
+          "name": "Monster Wanted Poster",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 30,
+          "thumbnail": "https://fake-call.varmeta.date/themes/monster-wanted.jpg",
+          "video": "https://fake-call.varmeta.date/themes/monster-wanted.mp4",
+          "config": "halloween/configs/monster-wanted.json",
+          "type": "free"
+        },
+        {
+          "id": "pumpkin-magic",
+          "name": "Pumpkin Magic",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 40,
+          "thumbnail": "https://fake-call.varmeta.date/themes/pumpkin-magic.jpg",
+          "video": "https://fake-call.varmeta.date/themes/pumpkin-magic.mp4",
+          "config": "halloween/configs/pumpkin-magic.json",
+          "type": "free"
+        },
+        {
+          "id": "skeleton-graveyard",
+          "name": "Skeleton Graveyard",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 50,
+          "thumbnail": "https://fake-call.varmeta.date/themes/skeleton-graveyard.jpg",
+          "video": "https://fake-call.varmeta.date/themes/skeleton-graveyard.mp4",
+          "config": "halloween/configs/skeleton-graveyard.json",
+          "type": "free"
+        },
+        {
+          "id": "trick-treat-door",
+          "name": "Trick-or-Treat Door",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 60,
+          "thumbnail": "https://fake-call.varmeta.date/themes/trick-treat-door.jpg",
+          "video": "https://fake-call.varmeta.date/themes/trick-treat-door.mp4",
+          "config": "halloween/configs/trick-treat-door.json",
+          "type": "free"
+        },
+        {
+          "id": "vampire-portrait",
+          "name": "Vampire's Portrait",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 70,
+          "thumbnail": "https://fake-call.varmeta.date/themes/vampire-portrait.jpg",
+          "video": "https://fake-call.varmeta.date/themes/vampire-portrait.mp4",
+          "config": "halloween/configs/vampire-portrait.json",
+          "type": "free"
+        },
+        {
+          "id": "witch-crystal-ball",
+          "name": "Witch's Crystal Ball",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 80,
+          "thumbnail": "https://fake-call.varmeta.date/themes/witch-crystal-ball.jpg",
+          "video": "https://fake-call.varmeta.date/themes/witch-crystal-ball.mp4",
+          "config": "halloween/configs/witch-crystal-ball.json",
+          "type": "free"
+        },
+        {
+          "id": "witch-spellbook",
+          "name": "Witch Spell Book",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 90,
+          "thumbnail": "https://fake-call.varmeta.date/themes/witch-spellbook.jpg",
+          "video": "https://fake-call.varmeta.date/themes/witch-spellbook.mp4",
+          "config": "halloween/configs/witch-spellbook.json",
+          "type": "free"
+        },
+        {
+          "id": "zombie-phone",
+          "name": "Zombie Phone",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 100,
+          "thumbnail": "https://fake-call.varmeta.date/themes/zombie-phone.jpg",
+          "video": "https://fake-call.varmeta.date/themes/zombie-phone.mp4",
+          "config": "halloween/configs/zombie-phone.json",
+          "type": "free"
+        }
+      ]
+    },
+    "letter": {
+      "basePath": "v1/letter",
+      "categories": [
+        {
+          "id": "cute",
+          "name": "Cute",
+          "order": 20
+        },
+        {
+          "id": "christmas_tree",
+          "name": "Christmas Tree",
+          "order": 30
+        },
+        {
+          "id": "simple",
+          "name": "Simple",
+          "order": 40
+        },
+        {
+          "id": "santa",
+          "name": "Santa",
+          "order": 50
+        }
+      ],
+      "items": [
+        {
+          "id": "letter_1",
+          "categoryIds": [
+            "santa"
+          ],
+          "order": 10,
+          "wall": "walls/sendletter_new_1.webp",
+          "type": "free",
+          "signPosition": "right",
+          "left": 80,
+          "right": 60,
+          "top": 120
+        },
+        {
+          "id": "letter_2",
+          "categoryIds": [
+            "santa"
+          ],
+          "order": 20,
+          "wall": "walls/sendletter_new_2.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 80,
+          "right": 60,
+          "top": 120
+        },
+        {
+          "id": "letter_20",
+          "categoryIds": [
+            "santa"
+          ],
+          "order": 30,
+          "wall": "walls/sendletter_new_20.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 145,
+          "right": 66,
+          "top": 180
+        },
+        {
+          "id": "letter_4",
+          "categoryIds": [
+            "santa"
+          ],
+          "order": 40,
+          "wall": "walls/sendletter_new_4.webp",
+          "type": "reward",
+          "signPosition": "right",
+          "left": 60,
+          "right": 60,
+          "top": 200
+        },
+        {
+          "id": "letter_21",
+          "categoryIds": [
+            "christmas_tree"
+          ],
+          "order": 50,
+          "wall": "walls/sendletter_new_21.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 250
+        },
+        {
+          "id": "letter_22",
+          "categoryIds": [
+            "christmas_tree"
+          ],
+          "order": 60,
+          "wall": "walls/sendletter_new_22.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 80,
+          "right": 60,
+          "top": 250
+        },
+        {
+          "id": "letter_5",
+          "categoryIds": [
+            "santa"
+          ],
+          "order": 70,
+          "wall": "walls/sendletter_new_5.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 80,
+          "right": 60,
+          "top": 120
+        },
+        {
+          "id": "letter_6",
+          "categoryIds": [
+            "santa"
+          ],
+          "order": 80,
+          "wall": "walls/sendletter_new_6.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 140
+        },
+        {
+          "id": "letter_7",
+          "categoryIds": [
+            "cute"
+          ],
+          "order": 90,
+          "wall": "walls/sendletter_new_7.webp",
+          "type": "reward",
+          "signPosition": "right",
+          "left": 80,
+          "right": 60,
+          "top": 120
+        },
+        {
+          "id": "letter_8",
+          "categoryIds": [
+            "christmas_tree"
+          ],
+          "order": 100,
+          "wall": "walls/sendletter_new_8.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 120
+        },
+        {
+          "id": "letter_9",
+          "categoryIds": [
+            "santa"
+          ],
+          "order": 110,
+          "wall": "walls/sendletter_new_9.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 70,
+          "right": 60,
+          "top": 110
+        },
+        {
+          "id": "letter_10",
+          "categoryIds": [
+            "santa"
+          ],
+          "order": 120,
+          "wall": "walls/sendletter_new_10.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 70,
+          "right": 60,
+          "top": 150
+        },
+        {
+          "id": "letter_11",
+          "categoryIds": [
+            "christmas_tree"
+          ],
+          "order": 130,
+          "wall": "walls/sendletter_new_11.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 70,
+          "right": 60,
+          "top": 110
+        },
+        {
+          "id": "letter_12",
+          "categoryIds": [
+            "santa"
+          ],
+          "order": 140,
+          "wall": "walls/sendletter_new_12.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 80,
+          "right": 60,
+          "top": 140
+        },
+        {
+          "id": "letter_13",
+          "categoryIds": [
+            "cute"
+          ],
+          "order": 150,
+          "wall": "walls/sendletter_new_13.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 70,
+          "right": 60,
+          "top": 170
+        },
+        {
+          "id": "letter_14",
+          "categoryIds": [
+            "santa"
+          ],
+          "order": 160,
+          "wall": "walls/sendletter_new_14.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 140
+        },
+        {
+          "id": "letter_15",
+          "categoryIds": [
+            "cute"
+          ],
+          "order": 170,
+          "wall": "walls/sendletter_new_15.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 66,
+          "right": 60,
+          "top": 140
+        },
+        {
+          "id": "letter_16",
+          "categoryIds": [
+            "simple"
+          ],
+          "order": 180,
+          "wall": "walls/sendletter_new_16.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 66,
+          "right": 60,
+          "top": 80
+        },
+        {
+          "id": "letter_17",
+          "categoryIds": [
+            "cute"
+          ],
+          "order": 190,
+          "wall": "walls/sendletter_new_17.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 66,
+          "right": 60,
+          "top": 130
+        },
+        {
+          "id": "letter_18",
+          "categoryIds": [
+            "simple"
+          ],
+          "order": 200,
+          "wall": "walls/sendletter_new_18.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 140
+        },
+        {
+          "id": "letter_19",
+          "categoryIds": [
+            "simple"
+          ],
+          "order": 210,
+          "wall": "walls/sendletter_new_19.webp",
+          "type": "reward",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 140
+        },
+        {
+          "id": "letter_3",
+          "categoryIds": [
+            "simple"
+          ],
+          "order": 220,
+          "wall": "walls/sendletter_new_3.webp",
+          "type": "iap",
+          "signPosition": "left",
+          "left": 80,
+          "right": 60,
+          "top": 110
         }
       ]
     }
