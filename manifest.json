@@ -1,5 +1,5 @@
 {
-  "version": "v1.1.2",
+  "version": "v1.2.0",
   "schemaVersion": 2,
   "assets": {
     "fakecall": {
@@ -2219,6 +2219,11 @@
       "basePath": "v1/letter",
       "categories": [
         {
+          "id": "halloween",
+          "name": "Halloween",
+          "order": 10
+        },
+        {
           "id": "cute",
           "name": "Cute",
           "order": 20
@@ -2525,6 +2530,123 @@
           "left": 80,
           "right": 60,
           "top": 110
+        },
+        {
+          "id": "letter_halloween_1",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 230,
+          "wall": "walls/halloween_1.webp",
+          "type": "free",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 80
+        },
+        {
+          "id": "letter_halloween_2",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 240,
+          "wall": "walls/halloween_2.webp",
+          "type": "free",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 80
+        },
+        {
+          "id": "letter_halloween_3",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 250,
+          "wall": "walls/halloween_3.webp",
+          "type": "free",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 80
+        },
+        {
+          "id": "letter_halloween_4",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 260,
+          "wall": "walls/halloween_4.webp",
+          "type": "free",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 80
+        },
+        {
+          "id": "letter_halloween_5",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 270,
+          "wall": "walls/halloween_5.webp",
+          "type": "free",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 80
+        },
+        {
+          "id": "letter_halloween_6",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 280,
+          "wall": "walls/halloween_6.webp",
+          "type": "free",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 80
+        },
+        {
+          "id": "letter_halloween_7",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 290,
+          "wall": "walls/halloween_7.webp",
+          "type": "free",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 80
+        },
+        {
+          "id": "letter_halloween_8",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 300,
+          "wall": "walls/halloween_8.webp",
+          "type": "free",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 80
+        },
+        {
+          "id": "letter_halloween_9",
+          "categoryIds": [
+            "halloween"
+          ],
+          "order": 310,
+          "wall": "walls/halloween_9.webp",
+          "type": "free",
+          "signPosition": "left",
+          "left": 60,
+          "right": 60,
+          "top": 80
         }
       ]
     }

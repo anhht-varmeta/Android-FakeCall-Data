@@ -95,6 +95,7 @@ Cấu trúc `configs/<id>.json`:
 ```
 v1/letter/
   walls/sendletter_new_<n>.webp   # ảnh nền lá thư
+  walls/halloween_<n>.webp        # ảnh nền lá thư Halloween (export 3x từ Figma: 1029x1367, webp)
 ```
 
 `assets.letter.categories` giống fakecall (`id`, `name`, `order`). App hiển thị đúng các category có trong manifest, không tự gom thêm category "tất cả".
