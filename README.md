@@ -71,10 +71,15 @@ v1/prankvideo/
     configs/<id>.json         # dữ liệu render: chroma key + track 4 góc khung ảnh theo từng frame
   halloween/                  # category "halloween"
     configs/
+  new-year/ tet/ valentine/ birthday/ anniversary/ wedding/ mothers-day/ graduation/
 ```
 
+Mỗi folder category trùng với `id` category và folder theme trên R2.
+
 Repo **chỉ** chứa file render (`configs/`). Video mẫu (có vùng nền xanh) và poster đã host sẵn ở
-`https://fake-call.varmeta.date/themes/<id>.mp4|.jpg`, nên không tải về repo.
+`https://fake-call.varmeta.date/themes/<category>/<id>.mp4|.jpg`, nên không tải về repo. Trên R2 còn có
+`themes/<category>/<id>.json` — cùng dữ liệu render nhưng kèm thêm metadata (`name`, `category`, `premium`,
+`video`, `poster`); file `configs/` trong repo là bản đã bỏ các field metadata đó.
 
 Mỗi item trong `assets.prankvideo.items` có `thumbnail`, `video`, `config`. Field đường dẫn nào bắt đầu bằng
 `http://`/`https://` là URL tuyệt đối, app dùng nguyên; còn lại là đường dẫn tương đối theo `basePath` trên jsDelivr.

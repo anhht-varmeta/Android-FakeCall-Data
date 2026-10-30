@@ -1,5 +1,5 @@
 {
-  "version": "v1.2.0",
+  "version": "v1.3.0",
   "schemaVersion": 2,
   "assets": {
     "fakecall": {
@@ -1958,6 +1958,46 @@
           "id": "halloween",
           "name": "Halloween",
           "order": 20
+        },
+        {
+          "id": "new-year",
+          "name": "New Year",
+          "order": 30
+        },
+        {
+          "id": "tet",
+          "name": "Lunar New Year",
+          "order": 40
+        },
+        {
+          "id": "valentine",
+          "name": "Valentine's Day",
+          "order": 50
+        },
+        {
+          "id": "birthday",
+          "name": "Birthday",
+          "order": 60
+        },
+        {
+          "id": "anniversary",
+          "name": "Anniversary",
+          "order": 70
+        },
+        {
+          "id": "wedding",
+          "name": "Wedding",
+          "order": 80
+        },
+        {
+          "id": "mothers-day",
+          "name": "Mother's Day",
+          "order": 90
+        },
+        {
+          "id": "graduation",
+          "name": "Graduation",
+          "order": 100
         }
       ],
       "items": [
@@ -1968,8 +2008,8 @@
             "christmas"
           ],
           "order": 10,
-          "thumbnail": "https://fake-call.varmeta.date/themes/christmas-letter.jpg",
-          "video": "https://fake-call.varmeta.date/themes/christmas-letter.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas/christmas-letter.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas/christmas-letter.mp4",
           "config": "christmas/configs/christmas-letter.json",
           "type": "free"
         },
@@ -1980,8 +2020,8 @@
             "christmas"
           ],
           "order": 20,
-          "thumbnail": "https://fake-call.varmeta.date/themes/christmas-ornament-reveal.jpg",
-          "video": "https://fake-call.varmeta.date/themes/christmas-ornament-reveal.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas/christmas-ornament-reveal.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas/christmas-ornament-reveal.mp4",
           "config": "christmas/configs/christmas-ornament-reveal.json",
           "type": "free"
         },
@@ -1992,8 +2032,8 @@
             "christmas"
           ],
           "order": 30,
-          "thumbnail": "https://fake-call.varmeta.date/themes/fireplace-portrait.jpg",
-          "video": "https://fake-call.varmeta.date/themes/fireplace-portrait.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas/fireplace-portrait.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas/fireplace-portrait.mp4",
           "config": "christmas/configs/fireplace-portrait.json",
           "type": "free"
         },
@@ -2004,8 +2044,8 @@
             "christmas"
           ],
           "order": 40,
-          "thumbnail": "https://fake-call.varmeta.date/themes/reindeer-mission-v3.jpg",
-          "video": "https://fake-call.varmeta.date/themes/reindeer-mission-v3.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas/reindeer-mission-v3.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas/reindeer-mission-v3.mp4",
           "config": "christmas/configs/reindeer-mission-v3.json",
           "type": "free"
         },
@@ -2016,8 +2056,8 @@
             "christmas"
           ],
           "order": 50,
-          "thumbnail": "https://fake-call.varmeta.date/themes/santa-elf-delivery.jpg",
-          "video": "https://fake-call.varmeta.date/themes/santa-elf-delivery.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas/santa-elf-delivery.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas/santa-elf-delivery.mp4",
           "config": "christmas/configs/santa-elf-delivery.json",
           "type": "free"
         },
@@ -2028,8 +2068,8 @@
             "christmas"
           ],
           "order": 60,
-          "thumbnail": "https://fake-call.varmeta.date/themes/santa-gift.jpg",
-          "video": "https://fake-call.varmeta.date/themes/santa-gift.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas/santa-gift.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas/santa-gift.mp4",
           "config": "christmas/configs/santa-gift.json",
           "type": "free"
         },
@@ -2040,8 +2080,8 @@
             "christmas"
           ],
           "order": 70,
-          "thumbnail": "https://fake-call.varmeta.date/themes/santa-magic-snow-globe-v2.jpg",
-          "video": "https://fake-call.varmeta.date/themes/santa-magic-snow-globe-v2.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas/santa-magic-snow-globe-v2.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas/santa-magic-snow-globe-v2.mp4",
           "config": "christmas/configs/santa-magic-snow-globe-v2.json",
           "type": "free"
         },
@@ -2052,8 +2092,8 @@
             "christmas"
           ],
           "order": 80,
-          "thumbnail": "https://fake-call.varmeta.date/themes/santa-nicelist-reveal-v4.jpg",
-          "video": "https://fake-call.varmeta.date/themes/santa-nicelist-reveal-v4.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas/santa-nicelist-reveal-v4.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas/santa-nicelist-reveal-v4.mp4",
           "config": "christmas/configs/santa-nicelist-reveal-v4.json",
           "type": "free"
         },
@@ -2064,8 +2104,8 @@
             "christmas"
           ],
           "order": 90,
-          "thumbnail": "https://fake-call.varmeta.date/themes/santa-selfie.jpg",
-          "video": "https://fake-call.varmeta.date/themes/santa-selfie.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas/santa-selfie.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas/santa-selfie.mp4",
           "config": "christmas/configs/santa-selfie.json",
           "type": "free"
         },
@@ -2076,8 +2116,8 @@
             "christmas"
           ],
           "order": 100,
-          "thumbnail": "https://fake-call.varmeta.date/themes/santa-wave-en-nb.jpg",
-          "video": "https://fake-call.varmeta.date/themes/santa-wave-en-nb.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas/santa-wave-en-nb.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas/santa-wave-en-nb.mp4",
           "config": "christmas/configs/santa-wave-en-nb.json",
           "type": "free"
         },
@@ -2088,8 +2128,8 @@
             "christmas"
           ],
           "order": 110,
-          "thumbnail": "https://fake-call.varmeta.date/themes/santa-workshop.jpg",
-          "video": "https://fake-call.varmeta.date/themes/santa-workshop.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/christmas/santa-workshop.jpg",
+          "video": "https://fake-call.varmeta.date/themes/christmas/santa-workshop.mp4",
           "config": "christmas/configs/santa-workshop.json",
           "type": "free"
         },
@@ -2100,8 +2140,8 @@
             "halloween"
           ],
           "order": 10,
-          "thumbnail": "https://fake-call.varmeta.date/themes/ghost-photo.jpg",
-          "video": "https://fake-call.varmeta.date/themes/ghost-photo.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/halloween/ghost-photo.jpg",
+          "video": "https://fake-call.varmeta.date/themes/halloween/ghost-photo.mp4",
           "config": "halloween/configs/ghost-photo.json",
           "type": "free"
         },
@@ -2112,8 +2152,8 @@
             "halloween"
           ],
           "order": 20,
-          "thumbnail": "https://fake-call.varmeta.date/themes/haunted-mirror.jpg",
-          "video": "https://fake-call.varmeta.date/themes/haunted-mirror.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/halloween/haunted-mirror.jpg",
+          "video": "https://fake-call.varmeta.date/themes/halloween/haunted-mirror.mp4",
           "config": "halloween/configs/haunted-mirror.json",
           "type": "free"
         },
@@ -2124,8 +2164,8 @@
             "halloween"
           ],
           "order": 30,
-          "thumbnail": "https://fake-call.varmeta.date/themes/monster-wanted.jpg",
-          "video": "https://fake-call.varmeta.date/themes/monster-wanted.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/halloween/monster-wanted.jpg",
+          "video": "https://fake-call.varmeta.date/themes/halloween/monster-wanted.mp4",
           "config": "halloween/configs/monster-wanted.json",
           "type": "free"
         },
@@ -2136,8 +2176,8 @@
             "halloween"
           ],
           "order": 40,
-          "thumbnail": "https://fake-call.varmeta.date/themes/pumpkin-magic.jpg",
-          "video": "https://fake-call.varmeta.date/themes/pumpkin-magic.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/halloween/pumpkin-magic.jpg",
+          "video": "https://fake-call.varmeta.date/themes/halloween/pumpkin-magic.mp4",
           "config": "halloween/configs/pumpkin-magic.json",
           "type": "free"
         },
@@ -2148,8 +2188,8 @@
             "halloween"
           ],
           "order": 50,
-          "thumbnail": "https://fake-call.varmeta.date/themes/skeleton-graveyard.jpg",
-          "video": "https://fake-call.varmeta.date/themes/skeleton-graveyard.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/halloween/skeleton-graveyard.jpg",
+          "video": "https://fake-call.varmeta.date/themes/halloween/skeleton-graveyard.mp4",
           "config": "halloween/configs/skeleton-graveyard.json",
           "type": "free"
         },
@@ -2160,8 +2200,8 @@
             "halloween"
           ],
           "order": 60,
-          "thumbnail": "https://fake-call.varmeta.date/themes/trick-treat-door.jpg",
-          "video": "https://fake-call.varmeta.date/themes/trick-treat-door.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/halloween/trick-treat-door.jpg",
+          "video": "https://fake-call.varmeta.date/themes/halloween/trick-treat-door.mp4",
           "config": "halloween/configs/trick-treat-door.json",
           "type": "free"
         },
@@ -2172,8 +2212,8 @@
             "halloween"
           ],
           "order": 70,
-          "thumbnail": "https://fake-call.varmeta.date/themes/vampire-portrait.jpg",
-          "video": "https://fake-call.varmeta.date/themes/vampire-portrait.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/halloween/vampire-portrait.jpg",
+          "video": "https://fake-call.varmeta.date/themes/halloween/vampire-portrait.mp4",
           "config": "halloween/configs/vampire-portrait.json",
           "type": "free"
         },
@@ -2184,8 +2224,8 @@
             "halloween"
           ],
           "order": 80,
-          "thumbnail": "https://fake-call.varmeta.date/themes/witch-crystal-ball.jpg",
-          "video": "https://fake-call.varmeta.date/themes/witch-crystal-ball.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/halloween/witch-crystal-ball.jpg",
+          "video": "https://fake-call.varmeta.date/themes/halloween/witch-crystal-ball.mp4",
           "config": "halloween/configs/witch-crystal-ball.json",
           "type": "free"
         },
@@ -2196,8 +2236,8 @@
             "halloween"
           ],
           "order": 90,
-          "thumbnail": "https://fake-call.varmeta.date/themes/witch-spellbook.jpg",
-          "video": "https://fake-call.varmeta.date/themes/witch-spellbook.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/halloween/witch-spellbook.jpg",
+          "video": "https://fake-call.varmeta.date/themes/halloween/witch-spellbook.mp4",
           "config": "halloween/configs/witch-spellbook.json",
           "type": "free"
         },
@@ -2208,9 +2248,969 @@
             "halloween"
           ],
           "order": 100,
-          "thumbnail": "https://fake-call.varmeta.date/themes/zombie-phone.jpg",
-          "video": "https://fake-call.varmeta.date/themes/zombie-phone.mp4",
+          "thumbnail": "https://fake-call.varmeta.date/themes/halloween/zombie-phone.jpg",
+          "video": "https://fake-call.varmeta.date/themes/halloween/zombie-phone.mp4",
           "config": "halloween/configs/zombie-phone.json",
+          "type": "free"
+        },
+        {
+          "id": "calendar-keeper",
+          "name": "Calendar Keeper",
+          "categoryIds": [
+            "new-year"
+          ],
+          "order": 10,
+          "thumbnail": "https://fake-call.varmeta.date/themes/new-year/calendar-keeper.jpg",
+          "video": "https://fake-call.varmeta.date/themes/new-year/calendar-keeper.mp4",
+          "config": "new-year/configs/calendar-keeper.json",
+          "type": "free"
+        },
+        {
+          "id": "champagne-waiter",
+          "name": "Champagne Waiter",
+          "categoryIds": [
+            "new-year"
+          ],
+          "order": 20,
+          "thumbnail": "https://fake-call.varmeta.date/themes/new-year/champagne-waiter.jpg",
+          "video": "https://fake-call.varmeta.date/themes/new-year/champagne-waiter.mp4",
+          "config": "new-year/configs/champagne-waiter.json",
+          "type": "free"
+        },
+        {
+          "id": "countdown-host",
+          "name": "Countdown Host",
+          "categoryIds": [
+            "new-year"
+          ],
+          "order": 30,
+          "thumbnail": "https://fake-call.varmeta.date/themes/new-year/countdown-host.jpg",
+          "video": "https://fake-call.varmeta.date/themes/new-year/countdown-host.mp4",
+          "config": "new-year/configs/countdown-host.json",
+          "type": "free"
+        },
+        {
+          "id": "firework-artist",
+          "name": "Firework Artist",
+          "categoryIds": [
+            "new-year"
+          ],
+          "order": 40,
+          "thumbnail": "https://fake-call.varmeta.date/themes/new-year/firework-artist.jpg",
+          "video": "https://fake-call.varmeta.date/themes/new-year/firework-artist.mp4",
+          "config": "new-year/configs/firework-artist.json",
+          "type": "free"
+        },
+        {
+          "id": "fortune-teller",
+          "name": "Fortune Teller",
+          "categoryIds": [
+            "new-year"
+          ],
+          "order": 50,
+          "thumbnail": "https://fake-call.varmeta.date/themes/new-year/fortune-teller.jpg",
+          "video": "https://fake-call.varmeta.date/themes/new-year/fortune-teller.mp4",
+          "config": "new-year/configs/fortune-teller.json",
+          "type": "free"
+        },
+        {
+          "id": "lucky-ticket",
+          "name": "Lucky Ticket",
+          "categoryIds": [
+            "new-year"
+          ],
+          "order": 60,
+          "thumbnail": "https://fake-call.varmeta.date/themes/new-year/lucky-ticket.jpg",
+          "video": "https://fake-call.varmeta.date/themes/new-year/lucky-ticket.mp4",
+          "config": "new-year/configs/lucky-ticket.json",
+          "type": "free"
+        },
+        {
+          "id": "midnight-messenger",
+          "name": "Midnight Messenger",
+          "categoryIds": [
+            "new-year"
+          ],
+          "order": 70,
+          "thumbnail": "https://fake-call.varmeta.date/themes/new-year/midnight-messenger.jpg",
+          "video": "https://fake-call.varmeta.date/themes/new-year/midnight-messenger.mp4",
+          "config": "new-year/configs/midnight-messenger.json",
+          "type": "free"
+        },
+        {
+          "id": "new-year-news",
+          "name": "New Year News",
+          "categoryIds": [
+            "new-year"
+          ],
+          "order": 80,
+          "thumbnail": "https://fake-call.varmeta.date/themes/new-year/new-year-news.jpg",
+          "video": "https://fake-call.varmeta.date/themes/new-year/new-year-news.mp4",
+          "config": "new-year/configs/new-year-news.json",
+          "type": "free"
+        },
+        {
+          "id": "party-dj",
+          "name": "Party DJ",
+          "categoryIds": [
+            "new-year"
+          ],
+          "order": 90,
+          "thumbnail": "https://fake-call.varmeta.date/themes/new-year/party-dj.jpg",
+          "video": "https://fake-call.varmeta.date/themes/new-year/party-dj.mp4",
+          "config": "new-year/configs/party-dj.json",
+          "type": "free"
+        },
+        {
+          "id": "timekeeper",
+          "name": "Timekeeper",
+          "categoryIds": [
+            "new-year"
+          ],
+          "order": 100,
+          "thumbnail": "https://fake-call.varmeta.date/themes/new-year/timekeeper.jpg",
+          "video": "https://fake-call.varmeta.date/themes/new-year/timekeeper.mp4",
+          "config": "new-year/configs/timekeeper.json",
+          "type": "free"
+        },
+        {
+          "id": "calligraphy-master",
+          "name": "Calligraphy Master",
+          "categoryIds": [
+            "tet"
+          ],
+          "order": 10,
+          "thumbnail": "https://fake-call.varmeta.date/themes/tet/calligraphy-master.jpg",
+          "video": "https://fake-call.varmeta.date/themes/tet/calligraphy-master.mp4",
+          "config": "tet/configs/calligraphy-master.json",
+          "type": "free"
+        },
+        {
+          "id": "family-feast",
+          "name": "Family Feast",
+          "categoryIds": [
+            "tet"
+          ],
+          "order": 20,
+          "thumbnail": "https://fake-call.varmeta.date/themes/tet/family-feast.jpg",
+          "video": "https://fake-call.varmeta.date/themes/tet/family-feast.mp4",
+          "config": "tet/configs/family-feast.json",
+          "type": "free"
+        },
+        {
+          "id": "firecracker-greeting",
+          "name": "Firecracker Greeting",
+          "categoryIds": [
+            "tet"
+          ],
+          "order": 30,
+          "thumbnail": "https://fake-call.varmeta.date/themes/tet/firecracker-greeting.jpg",
+          "video": "https://fake-call.varmeta.date/themes/tet/firecracker-greeting.mp4",
+          "config": "tet/configs/firecracker-greeting.json",
+          "type": "free"
+        },
+        {
+          "id": "fortune-box",
+          "name": "Fortune Box",
+          "categoryIds": [
+            "tet"
+          ],
+          "order": 40,
+          "thumbnail": "https://fake-call.varmeta.date/themes/tet/fortune-box.jpg",
+          "video": "https://fake-call.varmeta.date/themes/tet/fortune-box.mp4",
+          "config": "tet/configs/fortune-box.json",
+          "type": "free"
+        },
+        {
+          "id": "god-of-fortune",
+          "name": "God of Fortune",
+          "categoryIds": [
+            "tet"
+          ],
+          "order": 50,
+          "thumbnail": "https://fake-call.varmeta.date/themes/tet/god-of-fortune.jpg",
+          "video": "https://fake-call.varmeta.date/themes/tet/god-of-fortune.mp4",
+          "config": "tet/configs/god-of-fortune.json",
+          "type": "free"
+        },
+        {
+          "id": "lion-dance",
+          "name": "Lion Dance",
+          "categoryIds": [
+            "tet"
+          ],
+          "order": 60,
+          "thumbnail": "https://fake-call.varmeta.date/themes/tet/lion-dance.jpg",
+          "video": "https://fake-call.varmeta.date/themes/tet/lion-dance.mp4",
+          "config": "tet/configs/lion-dance.json",
+          "type": "free"
+        },
+        {
+          "id": "lucky-lantern",
+          "name": "Lucky Lantern",
+          "categoryIds": [
+            "tet"
+          ],
+          "order": 70,
+          "thumbnail": "https://fake-call.varmeta.date/themes/tet/lucky-lantern.jpg",
+          "video": "https://fake-call.varmeta.date/themes/tet/lucky-lantern.mp4",
+          "config": "tet/configs/lucky-lantern.json",
+          "type": "free"
+        },
+        {
+          "id": "peach-blossom",
+          "name": "Peach Blossom",
+          "categoryIds": [
+            "tet"
+          ],
+          "order": 80,
+          "thumbnail": "https://fake-call.varmeta.date/themes/tet/peach-blossom.jpg",
+          "video": "https://fake-call.varmeta.date/themes/tet/peach-blossom.mp4",
+          "config": "tet/configs/peach-blossom.json",
+          "type": "free"
+        },
+        {
+          "id": "red-envelope-delivery",
+          "name": "Red Envelope Delivery",
+          "categoryIds": [
+            "tet"
+          ],
+          "order": 90,
+          "thumbnail": "https://fake-call.varmeta.date/themes/tet/red-envelope-delivery.jpg",
+          "video": "https://fake-call.varmeta.date/themes/tet/red-envelope-delivery.mp4",
+          "config": "tet/configs/red-envelope-delivery.json",
+          "type": "free"
+        },
+        {
+          "id": "zodiac-guardian",
+          "name": "Zodiac Guardian",
+          "categoryIds": [
+            "tet"
+          ],
+          "order": 100,
+          "thumbnail": "https://fake-call.varmeta.date/themes/tet/zodiac-guardian.jpg",
+          "video": "https://fake-call.varmeta.date/themes/tet/zodiac-guardian.mp4",
+          "config": "tet/configs/zodiac-guardian.json",
+          "type": "free"
+        },
+        {
+          "id": "angel-greeting",
+          "name": "Angel Greeting",
+          "categoryIds": [
+            "valentine"
+          ],
+          "order": 10,
+          "thumbnail": "https://fake-call.varmeta.date/themes/valentine/angel-greeting.jpg",
+          "video": "https://fake-call.varmeta.date/themes/valentine/angel-greeting.mp4",
+          "config": "valentine/configs/angel-greeting.json",
+          "type": "free"
+        },
+        {
+          "id": "chocolatier",
+          "name": "Chocolatier",
+          "categoryIds": [
+            "valentine"
+          ],
+          "order": 20,
+          "thumbnail": "https://fake-call.varmeta.date/themes/valentine/chocolatier.jpg",
+          "video": "https://fake-call.varmeta.date/themes/valentine/chocolatier.mp4",
+          "config": "valentine/configs/chocolatier.json",
+          "type": "free"
+        },
+        {
+          "id": "cupid-target",
+          "name": "Cupid Target",
+          "categoryIds": [
+            "valentine"
+          ],
+          "order": 30,
+          "thumbnail": "https://fake-call.varmeta.date/themes/valentine/cupid-target.jpg",
+          "video": "https://fake-call.varmeta.date/themes/valentine/cupid-target.mp4",
+          "config": "valentine/configs/cupid-target.json",
+          "type": "free"
+        },
+        {
+          "id": "flower-seller",
+          "name": "Flower Seller",
+          "categoryIds": [
+            "valentine"
+          ],
+          "order": 40,
+          "thumbnail": "https://fake-call.varmeta.date/themes/valentine/flower-seller.jpg",
+          "video": "https://fake-call.varmeta.date/themes/valentine/flower-seller.mp4",
+          "config": "valentine/configs/flower-seller.json",
+          "type": "free"
+        },
+        {
+          "id": "love-detective",
+          "name": "Love Detective",
+          "categoryIds": [
+            "valentine"
+          ],
+          "order": 50,
+          "thumbnail": "https://fake-call.varmeta.date/themes/valentine/love-detective.jpg",
+          "video": "https://fake-call.varmeta.date/themes/valentine/love-detective.mp4",
+          "config": "valentine/configs/love-detective.json",
+          "type": "free"
+        },
+        {
+          "id": "love-postman",
+          "name": "Love Postman",
+          "categoryIds": [
+            "valentine"
+          ],
+          "order": 60,
+          "thumbnail": "https://fake-call.varmeta.date/themes/valentine/love-postman.jpg",
+          "video": "https://fake-call.varmeta.date/themes/valentine/love-postman.mp4",
+          "config": "valentine/configs/love-postman.json",
+          "type": "free"
+        },
+        {
+          "id": "love-radio-dj",
+          "name": "Love Radio DJ",
+          "categoryIds": [
+            "valentine"
+          ],
+          "order": 70,
+          "thumbnail": "https://fake-call.varmeta.date/themes/valentine/love-radio-dj.jpg",
+          "video": "https://fake-call.varmeta.date/themes/valentine/love-radio-dj.mp4",
+          "config": "valentine/configs/love-radio-dj.json",
+          "type": "free"
+        },
+        {
+          "id": "matchmaker",
+          "name": "Matchmaker",
+          "categoryIds": [
+            "valentine"
+          ],
+          "order": 80,
+          "thumbnail": "https://fake-call.varmeta.date/themes/valentine/matchmaker.jpg",
+          "video": "https://fake-call.varmeta.date/themes/valentine/matchmaker.mp4",
+          "config": "valentine/configs/matchmaker.json",
+          "type": "free"
+        },
+        {
+          "id": "romantic-chef",
+          "name": "Romantic Chef",
+          "categoryIds": [
+            "valentine"
+          ],
+          "order": 90,
+          "thumbnail": "https://fake-call.varmeta.date/themes/valentine/romantic-chef.jpg",
+          "video": "https://fake-call.varmeta.date/themes/valentine/romantic-chef.mp4",
+          "config": "valentine/configs/romantic-chef.json",
+          "type": "free"
+        },
+        {
+          "id": "secret-admirer",
+          "name": "Secret Admirer",
+          "categoryIds": [
+            "valentine"
+          ],
+          "order": 100,
+          "thumbnail": "https://fake-call.varmeta.date/themes/valentine/secret-admirer.jpg",
+          "video": "https://fake-call.varmeta.date/themes/valentine/secret-admirer.mp4",
+          "config": "valentine/configs/secret-admirer.json",
+          "type": "free"
+        },
+        {
+          "id": "balloon-seller",
+          "name": "Balloon Seller",
+          "categoryIds": [
+            "birthday"
+          ],
+          "order": 10,
+          "thumbnail": "https://fake-call.varmeta.date/themes/birthday/balloon-seller.jpg",
+          "video": "https://fake-call.varmeta.date/themes/birthday/balloon-seller.mp4",
+          "config": "birthday/configs/balloon-seller.json",
+          "type": "free"
+        },
+        {
+          "id": "birthday-chef",
+          "name": "Birthday Chef",
+          "categoryIds": [
+            "birthday"
+          ],
+          "order": 20,
+          "thumbnail": "https://fake-call.varmeta.date/themes/birthday/birthday-chef.jpg",
+          "video": "https://fake-call.varmeta.date/themes/birthday/birthday-chef.mp4",
+          "config": "birthday/configs/birthday-chef.json",
+          "type": "free"
+        },
+        {
+          "id": "birthday-dj",
+          "name": "Birthday DJ",
+          "categoryIds": [
+            "birthday"
+          ],
+          "order": 30,
+          "thumbnail": "https://fake-call.varmeta.date/themes/birthday/birthday-dj.jpg",
+          "video": "https://fake-call.varmeta.date/themes/birthday/birthday-dj.mp4",
+          "config": "birthday/configs/birthday-dj.json",
+          "type": "free"
+        },
+        {
+          "id": "birthday-magician",
+          "name": "Birthday Magician",
+          "categoryIds": [
+            "birthday"
+          ],
+          "order": 40,
+          "thumbnail": "https://fake-call.varmeta.date/themes/birthday/birthday-magician.jpg",
+          "video": "https://fake-call.varmeta.date/themes/birthday/birthday-magician.mp4",
+          "config": "birthday/configs/birthday-magician.json",
+          "type": "free"
+        },
+        {
+          "id": "birthday-news",
+          "name": "Birthday News",
+          "categoryIds": [
+            "birthday"
+          ],
+          "order": 50,
+          "thumbnail": "https://fake-call.varmeta.date/themes/birthday/birthday-news.jpg",
+          "video": "https://fake-call.varmeta.date/themes/birthday/birthday-news.mp4",
+          "config": "birthday/configs/birthday-news.json",
+          "type": "free"
+        },
+        {
+          "id": "birthday-photographer",
+          "name": "Birthday Photographer",
+          "categoryIds": [
+            "birthday"
+          ],
+          "order": 60,
+          "thumbnail": "https://fake-call.varmeta.date/themes/birthday/birthday-photographer.jpg",
+          "video": "https://fake-call.varmeta.date/themes/birthday/birthday-photographer.mp4",
+          "config": "birthday/configs/birthday-photographer.json",
+          "type": "free"
+        },
+        {
+          "id": "delivery-guy",
+          "name": "Special Delivery",
+          "categoryIds": [
+            "birthday"
+          ],
+          "order": 70,
+          "thumbnail": "https://fake-call.varmeta.date/themes/birthday/delivery-guy.jpg",
+          "video": "https://fake-call.varmeta.date/themes/birthday/delivery-guy.mp4",
+          "config": "birthday/configs/delivery-guy.json",
+          "type": "free"
+        },
+        {
+          "id": "fortune-birthday",
+          "name": "Fortune Birthday",
+          "categoryIds": [
+            "birthday"
+          ],
+          "order": 80,
+          "thumbnail": "https://fake-call.varmeta.date/themes/birthday/fortune-birthday.jpg",
+          "video": "https://fake-call.varmeta.date/themes/birthday/fortune-birthday.mp4",
+          "config": "birthday/configs/fortune-birthday.json",
+          "type": "free"
+        },
+        {
+          "id": "party-host",
+          "name": "Party Host",
+          "categoryIds": [
+            "birthday"
+          ],
+          "order": 90,
+          "thumbnail": "https://fake-call.varmeta.date/themes/birthday/party-host.jpg",
+          "video": "https://fake-call.varmeta.date/themes/birthday/party-host.mp4",
+          "config": "birthday/configs/party-host.json",
+          "type": "free"
+        },
+        {
+          "id": "royal-birthday",
+          "name": "Royal Birthday",
+          "categoryIds": [
+            "birthday"
+          ],
+          "order": 100,
+          "thumbnail": "https://fake-call.varmeta.date/themes/birthday/royal-birthday.jpg",
+          "video": "https://fake-call.varmeta.date/themes/birthday/royal-birthday.mp4",
+          "config": "birthday/configs/royal-birthday.json",
+          "type": "free"
+        },
+        {
+          "id": "anniversary-chef",
+          "name": "Anniversary Chef",
+          "categoryIds": [
+            "anniversary"
+          ],
+          "order": 10,
+          "thumbnail": "https://fake-call.varmeta.date/themes/anniversary/anniversary-chef.jpg",
+          "video": "https://fake-call.varmeta.date/themes/anniversary/anniversary-chef.mp4",
+          "config": "anniversary/configs/anniversary-chef.json",
+          "type": "free"
+        },
+        {
+          "id": "anniversary-photographer",
+          "name": "Photographer",
+          "categoryIds": [
+            "anniversary"
+          ],
+          "order": 20,
+          "thumbnail": "https://fake-call.varmeta.date/themes/anniversary/anniversary-photographer.jpg",
+          "video": "https://fake-call.varmeta.date/themes/anniversary/anniversary-photographer.mp4",
+          "config": "anniversary/configs/anniversary-photographer.json",
+          "type": "free"
+        },
+        {
+          "id": "anniversary-timekeeper",
+          "name": "Timekeeper",
+          "categoryIds": [
+            "anniversary"
+          ],
+          "order": 30,
+          "thumbnail": "https://fake-call.varmeta.date/themes/anniversary/anniversary-timekeeper.jpg",
+          "video": "https://fake-call.varmeta.date/themes/anniversary/anniversary-timekeeper.mp4",
+          "config": "anniversary/configs/anniversary-timekeeper.json",
+          "type": "free"
+        },
+        {
+          "id": "anniversary-waiter",
+          "name": "Anniversary Waiter",
+          "categoryIds": [
+            "anniversary"
+          ],
+          "order": 40,
+          "thumbnail": "https://fake-call.varmeta.date/themes/anniversary/anniversary-waiter.jpg",
+          "video": "https://fake-call.varmeta.date/themes/anniversary/anniversary-waiter.mp4",
+          "config": "anniversary/configs/anniversary-waiter.json",
+          "type": "free"
+        },
+        {
+          "id": "cinema-usher",
+          "name": "Cinema Usher",
+          "categoryIds": [
+            "anniversary"
+          ],
+          "order": 50,
+          "thumbnail": "https://fake-call.varmeta.date/themes/anniversary/cinema-usher.jpg",
+          "video": "https://fake-call.varmeta.date/themes/anniversary/cinema-usher.mp4",
+          "config": "anniversary/configs/cinema-usher.json",
+          "type": "free"
+        },
+        {
+          "id": "florist-anniversary",
+          "name": "Florist",
+          "categoryIds": [
+            "anniversary"
+          ],
+          "order": 60,
+          "thumbnail": "https://fake-call.varmeta.date/themes/anniversary/florist-anniversary.jpg",
+          "video": "https://fake-call.varmeta.date/themes/anniversary/florist-anniversary.mp4",
+          "config": "anniversary/configs/florist-anniversary.json",
+          "type": "free"
+        },
+        {
+          "id": "love-historian",
+          "name": "Love Historian",
+          "categoryIds": [
+            "anniversary"
+          ],
+          "order": 70,
+          "thumbnail": "https://fake-call.varmeta.date/themes/anniversary/love-historian.jpg",
+          "video": "https://fake-call.varmeta.date/themes/anniversary/love-historian.mp4",
+          "config": "anniversary/configs/love-historian.json",
+          "type": "free"
+        },
+        {
+          "id": "memory-keeper",
+          "name": "Memory Keeper",
+          "categoryIds": [
+            "anniversary"
+          ],
+          "order": 80,
+          "thumbnail": "https://fake-call.varmeta.date/themes/anniversary/memory-keeper.jpg",
+          "video": "https://fake-call.varmeta.date/themes/anniversary/memory-keeper.mp4",
+          "config": "anniversary/configs/memory-keeper.json",
+          "type": "free"
+        },
+        {
+          "id": "storyteller",
+          "name": "Storyteller",
+          "categoryIds": [
+            "anniversary"
+          ],
+          "order": 90,
+          "thumbnail": "https://fake-call.varmeta.date/themes/anniversary/storyteller.jpg",
+          "video": "https://fake-call.varmeta.date/themes/anniversary/storyteller.mp4",
+          "config": "anniversary/configs/storyteller.json",
+          "type": "free"
+        },
+        {
+          "id": "train-conductor",
+          "name": "Train Conductor",
+          "categoryIds": [
+            "anniversary"
+          ],
+          "order": 100,
+          "thumbnail": "https://fake-call.varmeta.date/themes/anniversary/train-conductor.jpg",
+          "video": "https://fake-call.varmeta.date/themes/anniversary/train-conductor.mp4",
+          "config": "anniversary/configs/train-conductor.json",
+          "type": "free"
+        },
+        {
+          "id": "best-man-maid-of-honor",
+          "name": "Best Man / Maid of Honor",
+          "categoryIds": [
+            "wedding"
+          ],
+          "order": 10,
+          "thumbnail": "https://fake-call.varmeta.date/themes/wedding/best-man-maid-of-honor.jpg",
+          "video": "https://fake-call.varmeta.date/themes/wedding/best-man-maid-of-honor.mp4",
+          "config": "wedding/configs/best-man-maid-of-honor.json",
+          "type": "free"
+        },
+        {
+          "id": "cupid-wedding",
+          "name": "Cupid Wedding",
+          "categoryIds": [
+            "wedding"
+          ],
+          "order": 20,
+          "thumbnail": "https://fake-call.varmeta.date/themes/wedding/cupid-wedding.jpg",
+          "video": "https://fake-call.varmeta.date/themes/wedding/cupid-wedding.mp4",
+          "config": "wedding/configs/cupid-wedding.json",
+          "type": "free"
+        },
+        {
+          "id": "fairy-godmother-wedding",
+          "name": "Fairy Godmother",
+          "categoryIds": [
+            "wedding"
+          ],
+          "order": 30,
+          "thumbnail": "https://fake-call.varmeta.date/themes/wedding/fairy-godmother-wedding.jpg",
+          "video": "https://fake-call.varmeta.date/themes/wedding/fairy-godmother-wedding.mp4",
+          "config": "wedding/configs/fairy-godmother-wedding.json",
+          "type": "free"
+        },
+        {
+          "id": "florist-wedding",
+          "name": "Wedding Florist",
+          "categoryIds": [
+            "wedding"
+          ],
+          "order": 40,
+          "thumbnail": "https://fake-call.varmeta.date/themes/wedding/florist-wedding.jpg",
+          "video": "https://fake-call.varmeta.date/themes/wedding/florist-wedding.mp4",
+          "config": "wedding/configs/florist-wedding.json",
+          "type": "free"
+        },
+        {
+          "id": "love-letter-messenger",
+          "name": "Love Letter Messenger",
+          "categoryIds": [
+            "wedding"
+          ],
+          "order": 50,
+          "thumbnail": "https://fake-call.varmeta.date/themes/wedding/love-letter-messenger.jpg",
+          "video": "https://fake-call.varmeta.date/themes/wedding/love-letter-messenger.mp4",
+          "config": "wedding/configs/love-letter-messenger.json",
+          "type": "free"
+        },
+        {
+          "id": "ring-bearer",
+          "name": "Ring Bearer",
+          "categoryIds": [
+            "wedding"
+          ],
+          "order": 60,
+          "thumbnail": "https://fake-call.varmeta.date/themes/wedding/ring-bearer.jpg",
+          "video": "https://fake-call.varmeta.date/themes/wedding/ring-bearer.mp4",
+          "config": "wedding/configs/ring-bearer.json",
+          "type": "free"
+        },
+        {
+          "id": "wedding-chef",
+          "name": "Wedding Chef",
+          "categoryIds": [
+            "wedding"
+          ],
+          "order": 70,
+          "thumbnail": "https://fake-call.varmeta.date/themes/wedding/wedding-chef.jpg",
+          "video": "https://fake-call.varmeta.date/themes/wedding/wedding-chef.mp4",
+          "config": "wedding/configs/wedding-chef.json",
+          "type": "free"
+        },
+        {
+          "id": "wedding-officiant",
+          "name": "Wedding Officiant",
+          "categoryIds": [
+            "wedding"
+          ],
+          "order": 80,
+          "thumbnail": "https://fake-call.varmeta.date/themes/wedding/wedding-officiant.jpg",
+          "video": "https://fake-call.varmeta.date/themes/wedding/wedding-officiant.mp4",
+          "config": "wedding/configs/wedding-officiant.json",
+          "type": "free"
+        },
+        {
+          "id": "wedding-photographer",
+          "name": "Wedding Photographer",
+          "categoryIds": [
+            "wedding"
+          ],
+          "order": 90,
+          "thumbnail": "https://fake-call.varmeta.date/themes/wedding/wedding-photographer.jpg",
+          "video": "https://fake-call.varmeta.date/themes/wedding/wedding-photographer.mp4",
+          "config": "wedding/configs/wedding-photographer.json",
+          "type": "free"
+        },
+        {
+          "id": "wedding-planner",
+          "name": "Wedding Planner",
+          "categoryIds": [
+            "wedding"
+          ],
+          "order": 100,
+          "thumbnail": "https://fake-call.varmeta.date/themes/wedding/wedding-planner.jpg",
+          "video": "https://fake-call.varmeta.date/themes/wedding/wedding-planner.mp4",
+          "config": "wedding/configs/wedding-planner.json",
+          "type": "free"
+        },
+        {
+          "id": "award-host",
+          "name": "Award Host",
+          "categoryIds": [
+            "mothers-day"
+          ],
+          "order": 10,
+          "thumbnail": "https://fake-call.varmeta.date/themes/mothers-day/award-host.jpg",
+          "video": "https://fake-call.varmeta.date/themes/mothers-day/award-host.mp4",
+          "config": "mothers-day/configs/award-host.json",
+          "type": "free"
+        },
+        {
+          "id": "chef-breakfast",
+          "name": "Chef Breakfast",
+          "categoryIds": [
+            "mothers-day"
+          ],
+          "order": 20,
+          "thumbnail": "https://fake-call.varmeta.date/themes/mothers-day/chef-breakfast.jpg",
+          "video": "https://fake-call.varmeta.date/themes/mothers-day/chef-breakfast.mp4",
+          "config": "mothers-day/configs/chef-breakfast.json",
+          "type": "free"
+        },
+        {
+          "id": "crown-maker",
+          "name": "Crown Maker",
+          "categoryIds": [
+            "mothers-day"
+          ],
+          "order": 30,
+          "thumbnail": "https://fake-call.varmeta.date/themes/mothers-day/crown-maker.jpg",
+          "video": "https://fake-call.varmeta.date/themes/mothers-day/crown-maker.mp4",
+          "config": "mothers-day/configs/crown-maker.json",
+          "type": "free"
+        },
+        {
+          "id": "fairy-godmother-mom",
+          "name": "Fairy Godmother",
+          "categoryIds": [
+            "mothers-day"
+          ],
+          "order": 40,
+          "thumbnail": "https://fake-call.varmeta.date/themes/mothers-day/fairy-godmother-mom.jpg",
+          "video": "https://fake-call.varmeta.date/themes/mothers-day/fairy-godmother-mom.mp4",
+          "config": "mothers-day/configs/fairy-godmother-mom.json",
+          "type": "free"
+        },
+        {
+          "id": "flower-delivery-mom",
+          "name": "Flower Delivery",
+          "categoryIds": [
+            "mothers-day"
+          ],
+          "order": 50,
+          "thumbnail": "https://fake-call.varmeta.date/themes/mothers-day/flower-delivery-mom.jpg",
+          "video": "https://fake-call.varmeta.date/themes/mothers-day/flower-delivery-mom.mp4",
+          "config": "mothers-day/configs/flower-delivery-mom.json",
+          "type": "free"
+        },
+        {
+          "id": "gardener",
+          "name": "Gardener",
+          "categoryIds": [
+            "mothers-day"
+          ],
+          "order": 60,
+          "thumbnail": "https://fake-call.varmeta.date/themes/mothers-day/gardener.jpg",
+          "video": "https://fake-call.varmeta.date/themes/mothers-day/gardener.mp4",
+          "config": "mothers-day/configs/gardener.json",
+          "type": "free"
+        },
+        {
+          "id": "memory-librarian",
+          "name": "Memory Librarian",
+          "categoryIds": [
+            "mothers-day"
+          ],
+          "order": 70,
+          "thumbnail": "https://fake-call.varmeta.date/themes/mothers-day/memory-librarian.jpg",
+          "video": "https://fake-call.varmeta.date/themes/mothers-day/memory-librarian.mp4",
+          "config": "mothers-day/configs/memory-librarian.json",
+          "type": "free"
+        },
+        {
+          "id": "phone-call-mom",
+          "name": "Phone Call",
+          "categoryIds": [
+            "mothers-day"
+          ],
+          "order": 80,
+          "thumbnail": "https://fake-call.varmeta.date/themes/mothers-day/phone-call-mom.jpg",
+          "video": "https://fake-call.varmeta.date/themes/mothers-day/phone-call-mom.mp4",
+          "config": "mothers-day/configs/phone-call-mom.json",
+          "type": "free"
+        },
+        {
+          "id": "superhero-reporter",
+          "name": "Superhero Reporter",
+          "categoryIds": [
+            "mothers-day"
+          ],
+          "order": 90,
+          "thumbnail": "https://fake-call.varmeta.date/themes/mothers-day/superhero-reporter.jpg",
+          "video": "https://fake-call.varmeta.date/themes/mothers-day/superhero-reporter.mp4",
+          "config": "mothers-day/configs/superhero-reporter.json",
+          "type": "free"
+        },
+        {
+          "id": "tea-host",
+          "name": "Tea Host",
+          "categoryIds": [
+            "mothers-day"
+          ],
+          "order": 100,
+          "thumbnail": "https://fake-call.varmeta.date/themes/mothers-day/tea-host.jpg",
+          "video": "https://fake-call.varmeta.date/themes/mothers-day/tea-host.mp4",
+          "config": "mothers-day/configs/tea-host.json",
+          "type": "free"
+        },
+        {
+          "id": "campus-mascot",
+          "name": "Campus Mascot",
+          "categoryIds": [
+            "graduation"
+          ],
+          "order": 10,
+          "thumbnail": "https://fake-call.varmeta.date/themes/graduation/campus-mascot.jpg",
+          "video": "https://fake-call.varmeta.date/themes/graduation/campus-mascot.mp4",
+          "config": "graduation/configs/campus-mascot.json",
+          "type": "free"
+        },
+        {
+          "id": "career-advisor",
+          "name": "Career Advisor",
+          "categoryIds": [
+            "graduation"
+          ],
+          "order": 20,
+          "thumbnail": "https://fake-call.varmeta.date/themes/graduation/career-advisor.jpg",
+          "video": "https://fake-call.varmeta.date/themes/graduation/career-advisor.mp4",
+          "config": "graduation/configs/career-advisor.json",
+          "type": "free"
+        },
+        {
+          "id": "dean-announcement",
+          "name": "Dean Announcement",
+          "categoryIds": [
+            "graduation"
+          ],
+          "order": 30,
+          "thumbnail": "https://fake-call.varmeta.date/themes/graduation/dean-announcement.jpg",
+          "video": "https://fake-call.varmeta.date/themes/graduation/dean-announcement.mp4",
+          "config": "graduation/configs/dean-announcement.json",
+          "type": "free"
+        },
+        {
+          "id": "diploma-delivery",
+          "name": "Diploma Delivery",
+          "categoryIds": [
+            "graduation"
+          ],
+          "order": 40,
+          "thumbnail": "https://fake-call.varmeta.date/themes/graduation/diploma-delivery.jpg",
+          "video": "https://fake-call.varmeta.date/themes/graduation/diploma-delivery.mp4",
+          "config": "graduation/configs/diploma-delivery.json",
+          "type": "free"
+        },
+        {
+          "id": "future-you",
+          "name": "Future You",
+          "categoryIds": [
+            "graduation"
+          ],
+          "order": 50,
+          "thumbnail": "https://fake-call.varmeta.date/themes/graduation/future-you.jpg",
+          "video": "https://fake-call.varmeta.date/themes/graduation/future-you.mp4",
+          "config": "graduation/configs/future-you.json",
+          "type": "free"
+        },
+        {
+          "id": "graduation-photographer",
+          "name": "Graduation Photographer",
+          "categoryIds": [
+            "graduation"
+          ],
+          "order": 60,
+          "thumbnail": "https://fake-call.varmeta.date/themes/graduation/graduation-photographer.jpg",
+          "video": "https://fake-call.varmeta.date/themes/graduation/graduation-photographer.mp4",
+          "config": "graduation/configs/graduation-photographer.json",
+          "type": "free"
+        },
+        {
+          "id": "graduation-time-capsule",
+          "name": "Graduation Time Capsule",
+          "categoryIds": [
+            "graduation"
+          ],
+          "order": 70,
+          "thumbnail": "https://fake-call.varmeta.date/themes/graduation/graduation-time-capsule.jpg",
+          "video": "https://fake-call.varmeta.date/themes/graduation/graduation-time-capsule.mp4",
+          "config": "graduation/configs/graduation-time-capsule.json",
+          "type": "free"
+        },
+        {
+          "id": "librarian",
+          "name": "Librarian",
+          "categoryIds": [
+            "graduation"
+          ],
+          "order": 80,
+          "thumbnail": "https://fake-call.varmeta.date/themes/graduation/librarian.jpg",
+          "video": "https://fake-call.varmeta.date/themes/graduation/librarian.mp4",
+          "config": "graduation/configs/librarian.json",
+          "type": "free"
+        },
+        {
+          "id": "principal-ceremony",
+          "name": "Principal Ceremony",
+          "categoryIds": [
+            "graduation"
+          ],
+          "order": 90,
+          "thumbnail": "https://fake-call.varmeta.date/themes/graduation/principal-ceremony.jpg",
+          "video": "https://fake-call.varmeta.date/themes/graduation/principal-ceremony.mp4",
+          "config": "graduation/configs/principal-ceremony.json",
+          "type": "free"
+        },
+        {
+          "id": "professor-message",
+          "name": "Professor Message",
+          "categoryIds": [
+            "graduation"
+          ],
+          "order": 100,
+          "thumbnail": "https://fake-call.varmeta.date/themes/graduation/professor-message.jpg",
+          "video": "https://fake-call.varmeta.date/themes/graduation/professor-message.mp4",
+          "config": "graduation/configs/professor-message.json",
           "type": "free"
         }
       ]
